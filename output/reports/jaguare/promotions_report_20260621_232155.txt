@@ -1,0 +1,630 @@
+RELATÓRIO DE PROMOÇÕES - SUPERMERCADO JAGUARÉ
+======================================================================
+Supermercado: Supermercado Jaguaré (jaguare)
+Plataforma: vipcommerce
+Gerado em: 21/06/2026 20:21:55
+Lote de coleta: 21/06/2026 20:21:45
+Fonte: https://www.supermercadojaguare.com.br/ofertas
+
+RESUMO GERAL
+----------------------------------------------------------------------
+Total de promoções: 40
+Produtos disponíveis: 40
+Produtos indisponíveis: 0
+Tipos de oferta distintos: 2
+
+RESUMO POR TIPO DE OFERTA
+----------------------------------------------------------------------
+Oferta: 36
+Ofertas Clube: 4
+
+ESTATÍSTICAS DE DESCONTO
+----------------------------------------------------------------------
+Produtos com desconto calculado: 40
+Desconto médio: 21.3%
+Maior desconto: 50.0%
+Economia total estimada (soma dos descontos): R$ 606,32
+
+MAIORES DESCONTOS (TOP 20)
+----------------------------------------------------------------------
+1. Vinho Garzon Reserva Albarino 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5738/vinho-garzon-reserva-albarino-750ml
+   ID do produto: 5738 | SKU: F4-0166A | EAN: 7730951080112
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 149,99
+   Preço anterior: R$ 299,99
+   Preço de catálogo: R$ 299,99
+   Desconto: 50.0% | Economia: R$ 150,00
+
+2. Coxa De Frango Korin Livre De Transgênicos Congelado 600g
+   Link: https://www.supermercadojaguare.com.br/produto/3558/coxa-de-frango-korin-livre-de-transgenicos-congelado-600g
+   ID do produto: 3558 | SKU: F4-00DE6 | EAN: 7893753602422
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 7,99
+   Preço anterior: R$ 12,99
+   Preço de catálogo: R$ 12,99
+   Desconto: 38.5% | Economia: R$ 5,00
+
+3. Panettone Frutas 350g
+   Link: https://www.supermercadojaguare.com.br/produto/570/panettone-frutas-350g
+   ID do produto: 570 | SKU: F4-0023A | EAN: 6688
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 15,99
+   Preço de catálogo: R$ 15,99
+   Desconto: 37.5% | Economia: R$ 6,00
+
+4. Vinho Garzon Estate Sauvignon Blanc 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5745/vinho-garzon-estate-sauvignon-blanc-750ml
+   ID do produto: 5745 | SKU: F4-01671 | EAN: 7730951080136
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 99,99
+   Preço anterior: R$ 159,00
+   Preço de catálogo: R$ 159,00
+   Desconto: 37.1% | Economia: R$ 59,01
+
+5. Cápsula Dolce Gusto Café Au Lait 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/2283/capsula-dolce-gusto-cafe-au-lait-10-unidades
+   ID do produto: 2283 | SKU: F4-008EB | EAN: 7891000243954
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 33.3% | Economia: R$ 10,00
+
+6. Café Em Cápsula Nescafe Dolce Gusto Espresso Intenso Com 10 Unid
+   Link: https://www.supermercadojaguare.com.br/produto/2287/cafe-em-capsula-nescafe-dolce-gusto-espresso-intenso-com-10-unid
+   ID do produto: 2287 | SKU: F4-008EF | EAN: 7891000243725
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 33.3% | Economia: R$ 10,00
+
+7. Cápsula Nescafe Dolce Gusto Café Espresso 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/2288/capsula-nescafe-dolce-gusto-cafe-espresso-10-unidades
+   ID do produto: 2288 | SKU: F4-008F0 | EAN: 7891000243787
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 33.3% | Economia: R$ 10,00
+
+8. Filé Mignon Sem Cordão 2kg
+   Link: https://www.supermercadojaguare.com.br/produto/381/file-mignon-sem-cordao-2kg
+   ID do produto: 381 | SKU: F4-0017D | EAN: 353
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 199,98
+   Preço anterior: R$ 279,98
+   Preço de catálogo: R$ 279,98
+   Desconto: 28.6% | Economia: R$ 80,00
+
+9. Queijo Brie Tirolez 200g
+   Link: https://www.supermercadojaguare.com.br/produto/764/queijo-brie-tirolez-200g
+   ID do produto: 764 | SKU: F4-002FC | EAN: 8338
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 20,00
+   Preço anterior: R$ 28,00
+   Preço de catálogo: R$ 28,00
+   Desconto: 28.6% | Economia: R$ 8,00
+
+10. Queijo Parmesão Tirolez 300g
+   Link: https://www.supermercadojaguare.com.br/produto/834/queijo-parmesao-tirolez-300g
+   ID do produto: 834 | SKU: F4-00342 | EAN: 8457
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 30,00
+   Preço anterior: R$ 42,00
+   Preço de catálogo: R$ 42,00
+   Desconto: 28.6% | Economia: R$ 12,00
+
+11. Meio Da Asa De Frango 600g
+   Link: https://www.supermercadojaguare.com.br/produto/500/meio-da-asa-de-frango-600g
+   ID do produto: 500 | SKU: F4-001F4 | EAN: 5140
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 15,59
+   Preço anterior: R$ 21,59
+   Preço de catálogo: R$ 21,59
+   Desconto: 27.8% | Economia: R$ 6,00
+
+12. Vinho Cartuxa Ea Tinto 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5500/vinho-cartuxa-ea-tinto-750ml
+   ID do produto: 5500 | SKU: F4-0157C | EAN: 5602720014074
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 59,99
+   Preço anterior: R$ 79,99
+   Preço de catálogo: R$ 79,99
+   Desconto: 25.0% | Economia: R$ 20,00
+
+13. Vinho Branco Chileno Reserva Petirrojo Bisquertt Sauvignon Blanc 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5959/vinho-branco-chileno-reserva-petirrojo-bisquertt-sauvignon-blanc-750ml
+   ID do produto: 5959 | SKU: F4-01747 | EAN: 7804343004175
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 59,99
+   Preço anterior: R$ 79,00
+   Preço de catálogo: R$ 79,00
+   Desconto: 24.1% | Economia: R$ 19,01
+
+14. Lava Roupas Pó Omo Lavagem Perfeita 800g
+   Link: https://www.supermercadojaguare.com.br/produto/4911/lava-roupas-po-omo-lavagem-perfeita-800g
+   ID do produto: 4911 | SKU: F4-0132F | EAN: 7891150064317
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 12,99
+   Preço anterior: R$ 16,98
+   Preço de catálogo: R$ 16,99
+   Desconto: 23.5% | Economia: R$ 3,99
+
+15. Whisky Chivas Regal 12 Anos 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/6182/whisky-chivas-regal-12-anos-750ml
+   ID do produto: 6182 | SKU: F4-01826 | EAN: 80432400395
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 99,99
+   Preço anterior: R$ 129,99
+   Preço de catálogo: R$ 129,99
+   Desconto: 23.1% | Economia: R$ 30,00
+
+16. Panettone Chocolate 350g
+   Link: https://www.supermercadojaguare.com.br/produto/568/panettone-chocolate-350g
+   ID do produto: 568 | SKU: F4-00238 | EAN: 6689
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 13,99
+   Preço anterior: R$ 17,99
+   Preço de catálogo: R$ 17,99
+   Desconto: 22.2% | Economia: R$ 4,00
+
+17. Queijo Minas Padrão Fracionado Tirolez 700g
+   Link: https://www.supermercadojaguare.com.br/produto/808/queijo-minas-padrao-fracionado-tirolez-700g
+   ID do produto: 808 | SKU: F4-00328 | EAN: 8035
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 48,99
+   Preço anterior: R$ 62,99
+   Preço de catálogo: R$ 62,99
+   Desconto: 22.2% | Economia: R$ 14,00
+
+18. Linguiça Toscana Sadia 500g
+   Link: https://www.supermercadojaguare.com.br/produto/445/linguica-toscana-sadia-500g
+   ID do produto: 445 | SKU: F4-001BD | EAN: 231
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 12,49
+   Preço de catálogo: R$ 12,50
+   Desconto: 20.0% | Economia: R$ 2,50
+
+19. Gin Apogee 1l
+   Link: https://www.supermercadojaguare.com.br/produto/4198/gin-apogee-1l
+   ID do produto: 4198 | SKU: F4-01066 | EAN: 7898221854310
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 49,99
+   Preço de catálogo: R$ 49,99
+   Desconto: 20.0% | Economia: R$ 10,00
+
+20. Whisky Irish Jameson 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/6204/whisky-irish-jameson-750ml
+   ID do produto: 6204 | SKU: F4-0183C | EAN: 5011007003029
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 79,99
+   Preço anterior: R$ 99,99
+   Preço de catálogo: R$ 99,99
+   Desconto: 20.0% | Economia: R$ 20,00
+
+LISTAGEM COMPLETA DE PROMOÇÕES
+----------------------------------------------------------------------
+1. Bacalhau Desfiado 500g
+   Link: https://www.supermercadojaguare.com.br/produto/67/bacalhau-desfiado-500g
+   ID do produto: 67 | SKU: F4-00043 | EAN: 279
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 25,00
+   Preço anterior: R$ 30,00
+   Preço de catálogo: R$ 30,00
+   Desconto: 16.7% | Economia: R$ 5,00
+
+2. Bala Fini Tubes Twister Cítrico 80g
+   Link: https://www.supermercadojaguare.com.br/produto/1672/bala-fini-tubes-twister-citrico-80g
+   ID do produto: 1672 | SKU: F4-00688 | EAN: 7898591457814
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 7,99
+   Preço de catálogo: R$ 7,99
+   Desconto: 12.5% | Economia: R$ 1,00
+
+3. Biscoito Bauducco Choco Biscuit Meio Amargo 80g
+   Link: https://www.supermercadojaguare.com.br/produto/1786/biscoito-bauducco-choco-biscuit-meio-amargo-80g
+   ID do produto: 1786 | SKU: F4-006FA | EAN: 7891962056678
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 7,99
+   Preço de catálogo: R$ 7,99
+   Desconto: 12.5% | Economia: R$ 1,00
+
+4. Café Em Capsula Lor Espresso Ristretto Decaffeinato Com 10 Unid 52g
+   Link: https://www.supermercadojaguare.com.br/produto/2310/cafe-em-capsula-lor-espresso-ristretto-decaffeinato-com-10-unid-52g
+   ID do produto: 2310 | SKU: F4-00906 | EAN: 8711000397466
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+5. Café Em Cápsula Nescafe Dolce Gusto Espresso Intenso Com 10 Unid
+   Link: https://www.supermercadojaguare.com.br/produto/2287/cafe-em-capsula-nescafe-dolce-gusto-espresso-intenso-com-10-unid
+   ID do produto: 2287 | SKU: F4-008EF | EAN: 7891000243725
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 33.3% | Economia: R$ 10,00
+
+6. Café Em Cápsula Nescafe Dolce Gusto Nescau 10 Unid
+   Link: https://www.supermercadojaguare.com.br/produto/2300/cafe-em-capsula-nescafe-dolce-gusto-nescau-10-unid
+   ID do produto: 2300 | SKU: F4-008FC | EAN: 7891000243688
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 16.7% | Economia: R$ 5,00
+
+7. Carne Moída De Segunda Bandeja 600g
+   Link: https://www.supermercadojaguare.com.br/produto/218/carne-moida-de-segunda-bandeja-600g
+   ID do produto: 218 | SKU: F4-000DA | EAN: 5014
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 20,99
+   Preço anterior: R$ 22,19
+   Preço de catálogo: R$ 22,19
+   Desconto: 5.4% | Economia: R$ 1,20
+
+8. Cerveja Dama Bier Young Ipa 600ml
+   Link: https://www.supermercadojaguare.com.br/produto/2524/cerveja-dama-bier-young-ipa-600ml
+   ID do produto: 2524 | SKU: F4-009DC | EAN: 7898942815621
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 16.7% | Economia: R$ 5,00
+
+9. Chá Instantâneo Dina Tea Frutas Silvestres 350g
+   Link: https://www.supermercadojaguare.com.br/produto/2796/cha-instantaneo-dina-tea-frutas-silvestres-350g
+   ID do produto: 2796 | SKU: F4-00AEC | EAN: 5901830000022
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 26,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 10.0% | Economia: R$ 3,00
+
+10. Coxa De Frango Korin Livre De Transgênicos Congelado 600g
+   Link: https://www.supermercadojaguare.com.br/produto/3558/coxa-de-frango-korin-livre-de-transgenicos-congelado-600g
+   ID do produto: 3558 | SKU: F4-00DE6 | EAN: 7893753602422
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 7,99
+   Preço anterior: R$ 12,99
+   Preço de catálogo: R$ 12,99
+   Desconto: 38.5% | Economia: R$ 5,00
+
+11. Cápsula Dolce Gusto Café Au Lait 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/2283/capsula-dolce-gusto-cafe-au-lait-10-unidades
+   ID do produto: 2283 | SKU: F4-008EB | EAN: 7891000243954
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 33.3% | Economia: R$ 10,00
+
+12. Cápsula Nescafe Dolce Gusto Café Espresso 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/2288/capsula-nescafe-dolce-gusto-cafe-espresso-10-unidades
+   ID do produto: 2288 | SKU: F4-008F0 | EAN: 7891000243787
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 33.3% | Economia: R$ 10,00
+
+13. Filé Mignon Sem Cordão 2kg
+   Link: https://www.supermercadojaguare.com.br/produto/381/file-mignon-sem-cordao-2kg
+   ID do produto: 381 | SKU: F4-0017D | EAN: 353
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 199,98
+   Preço anterior: R$ 279,98
+   Preço de catálogo: R$ 279,98
+   Desconto: 28.6% | Economia: R$ 80,00
+
+14. Gin Apogee 1l
+   Link: https://www.supermercadojaguare.com.br/produto/4198/gin-apogee-1l
+   ID do produto: 4198 | SKU: F4-01066 | EAN: 7898221854310
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 49,99
+   Preço de catálogo: R$ 49,99
+   Desconto: 20.0% | Economia: R$ 10,00
+
+15. Lava Roupas Pó Omo Lavagem Perfeita 800g
+   Link: https://www.supermercadojaguare.com.br/produto/4911/lava-roupas-po-omo-lavagem-perfeita-800g
+   ID do produto: 4911 | SKU: F4-0132F | EAN: 7891150064317
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 12,99
+   Preço anterior: R$ 16,98
+   Preço de catálogo: R$ 16,99
+   Desconto: 23.5% | Economia: R$ 3,99
+
+16. Linguiça Toscana Sadia 500g
+   Link: https://www.supermercadojaguare.com.br/produto/445/linguica-toscana-sadia-500g
+   ID do produto: 445 | SKU: F4-001BD | EAN: 231
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 12,49
+   Preço de catálogo: R$ 12,50
+   Desconto: 20.0% | Economia: R$ 2,50
+
+17. Meio Da Asa De Frango 600g
+   Link: https://www.supermercadojaguare.com.br/produto/500/meio-da-asa-de-frango-600g
+   ID do produto: 500 | SKU: F4-001F4 | EAN: 5140
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 15,59
+   Preço anterior: R$ 21,59
+   Preço de catálogo: R$ 21,59
+   Desconto: 27.8% | Economia: R$ 6,00
+
+18. Panettone Chocolate 350g
+   Link: https://www.supermercadojaguare.com.br/produto/568/panettone-chocolate-350g
+   ID do produto: 568 | SKU: F4-00238 | EAN: 6689
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 13,99
+   Preço anterior: R$ 17,99
+   Preço de catálogo: R$ 17,99
+   Desconto: 22.2% | Economia: R$ 4,00
+
+19. Panettone Frutas 350g
+   Link: https://www.supermercadojaguare.com.br/produto/570/panettone-frutas-350g
+   ID do produto: 570 | SKU: F4-0023A | EAN: 6688
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 15,99
+   Preço de catálogo: R$ 15,99
+   Desconto: 37.5% | Economia: R$ 6,00
+
+20. Pernil Suíno Picado 400g
+   Link: https://www.supermercadojaguare.com.br/produto/694/pernil-suino-picado-400g
+   ID do produto: 694 | SKU: F4-002B6 | EAN: 5381
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 7,20
+   Preço anterior: R$ 8,80
+   Preço de catálogo: R$ 8,80
+   Desconto: 18.2% | Economia: R$ 1,60
+
+21. Pipoca Microondas Yoki Manteiga Menos Sódio 90g
+   Link: https://www.supermercadojaguare.com.br/produto/4773/pipoca-microondas-yoki-manteiga-menos-sodio-90g
+   ID do produto: 4773 | SKU: F4-012A5 | EAN: 7891095030217
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 3,99
+   Preço anterior: R$ 4,99
+   Preço de catálogo: R$ 4,99
+   Desconto: 20.0% | Economia: R$ 1,00
+
+22. Presunto Sadia Royale 250g
+   Link: https://www.supermercadojaguare.com.br/produto/758/presunto-sadia-royale-250g
+   ID do produto: 758 | SKU: F4-002F6 | EAN: 86
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 32,50
+   Preço anterior: R$ 37,50
+   Preço de catálogo: R$ 37,50
+   Desconto: 13.3% | Economia: R$ 5,00
+
+23. Queijo Azul Tirolez 250g
+   Link: https://www.supermercadojaguare.com.br/produto/763/queijo-azul-tirolez-250g
+   ID do produto: 763 | SKU: F4-002FB | EAN: 8525
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 25,00
+   Preço anterior: R$ 30,00
+   Preço de catálogo: R$ 30,00
+   Desconto: 16.7% | Economia: R$ 5,00
+
+24. Queijo Brie Tirolez 200g
+   Link: https://www.supermercadojaguare.com.br/produto/764/queijo-brie-tirolez-200g
+   ID do produto: 764 | SKU: F4-002FC | EAN: 8338
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 20,00
+   Preço anterior: R$ 28,00
+   Preço de catálogo: R$ 28,00
+   Desconto: 28.6% | Economia: R$ 8,00
+
+25. Queijo Minas Frescal Tirolez 650g
+   Link: https://www.supermercadojaguare.com.br/produto/792/queijo-minas-frescal-tirolez-650g
+   ID do produto: 792 | SKU: F4-00318 | EAN: 8092
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 38,99
+   Preço anterior: R$ 45,49
+   Preço de catálogo: R$ 45,49
+   Desconto: 14.3% | Economia: R$ 6,50
+
+26. Queijo Minas Padrão Fracionado Tirolez 700g
+   Link: https://www.supermercadojaguare.com.br/produto/808/queijo-minas-padrao-fracionado-tirolez-700g
+   ID do produto: 808 | SKU: F4-00328 | EAN: 8035
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 48,99
+   Preço anterior: R$ 62,99
+   Preço de catálogo: R$ 62,99
+   Desconto: 22.2% | Economia: R$ 14,00
+
+27. Queijo Parmesão Tirolez 300g
+   Link: https://www.supermercadojaguare.com.br/produto/834/queijo-parmesao-tirolez-300g
+   ID do produto: 834 | SKU: F4-00342 | EAN: 8457
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 30,00
+   Preço anterior: R$ 42,00
+   Preço de catálogo: R$ 42,00
+   Desconto: 28.6% | Economia: R$ 12,00
+
+28. Ração Para Cães Pedigree Vital Pro Adulto Frango Ao Molho 100g
+   Link: https://www.supermercadojaguare.com.br/produto/1272/racao-para-caes-pedigree-vital-pro-adulto-frango-ao-molho-100g
+   ID do produto: 1272 | SKU: F4-004F8 | EAN: 7896029019009
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 3,99
+   Preço anterior: R$ 4,49
+   Preço de catálogo: R$ 4,49
+   Desconto: 11.1% | Economia: R$ 0,50
+
+29. Ração Para Gatos Whiskas Sache Castrados Carne 85g 
+   Link: https://www.supermercadojaguare.com.br/produto/1291/racao-para-gatos-whiskas-sache-castrados-carne-85g
+   ID do produto: 1291 | SKU: F4-0050B | EAN: 7896029046623
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 3,99
+   Preço anterior: R$ 4,49
+   Preço de catálogo: R$ 4,49
+   Desconto: 11.1% | Economia: R$ 0,50
+
+30. Salsicha Hot Dog Sadia 500g
+   Link: https://www.supermercadojaguare.com.br/produto/889/salsicha-hot-dog-sadia-500g
+   ID do produto: 889 | SKU: F4-00379 | EAN: 262
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 10,00
+   Preço anterior: R$ 11,50
+   Preço de catálogo: R$ 11,50
+   Desconto: 13.0% | Economia: R$ 1,50
+
+31. Vinho Branco Chileno Reserva Petirrojo Bisquertt Sauvignon Blanc 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5959/vinho-branco-chileno-reserva-petirrojo-bisquertt-sauvignon-blanc-750ml
+   ID do produto: 5959 | SKU: F4-01747 | EAN: 7804343004175
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 59,99
+   Preço anterior: R$ 79,00
+   Preço de catálogo: R$ 79,00
+   Desconto: 24.1% | Economia: R$ 19,01
+
+32. Vinho Cartuxa Ea Tinto 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5500/vinho-cartuxa-ea-tinto-750ml
+   ID do produto: 5500 | SKU: F4-0157C | EAN: 5602720014074
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 59,99
+   Preço anterior: R$ 79,99
+   Preço de catálogo: R$ 79,99
+   Desconto: 25.0% | Economia: R$ 20,00
+
+33. Vinho Cartuxa Évora Tinto Colheita 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5502/vinho-cartuxa-evora-tinto-colheita-750ml
+   ID do produto: 5502 | SKU: F4-0157E | EAN: 5602720044057
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 249,99
+   Preço anterior: R$ 299,99
+   Preço de catálogo: R$ 299,99
+   Desconto: 16.7% | Economia: R$ 50,00
+
+34. Vinho Do Porto Ceremony Ruby Tinto 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5553/vinho-do-porto-ceremony-ruby-tinto-750ml
+   ID do produto: 5553 | SKU: F4-015B1 | EAN: 5602660004395
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 89,99
+   Preço anterior: R$ 99,99
+   Preço de catálogo: R$ 99,99
+   Desconto: 10.0% | Economia: R$ 10,00
+
+35. Vinho Garzon Estate Sauvignon Blanc 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5745/vinho-garzon-estate-sauvignon-blanc-750ml
+   ID do produto: 5745 | SKU: F4-01671 | EAN: 7730951080136
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 99,99
+   Preço anterior: R$ 159,00
+   Preço de catálogo: R$ 159,00
+   Desconto: 37.1% | Economia: R$ 59,01
+
+36. Vinho Garzon Reserva Albarino 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5738/vinho-garzon-reserva-albarino-750ml
+   ID do produto: 5738 | SKU: F4-0166A | EAN: 7730951080112
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 149,99
+   Preço anterior: R$ 299,99
+   Preço de catálogo: R$ 299,99
+   Desconto: 50.0% | Economia: R$ 150,00
+
+37. Vinho Rosé Nacional A Mare Puglia 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/5372/vinho-rose-nacional-a-mare-puglia-750ml
+   ID do produto: 5372 | SKU: F4-014FC | EAN: 7896196067551
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 69,99
+   Preço anterior: R$ 79,00
+   Preço de catálogo: R$ 79,00
+   Desconto: 11.4% | Economia: R$ 9,01
+
+38. Vodka Absolut Sabor Citron Sueca 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/6133/vodka-absolut-sabor-citron-sueca-750ml
+   ID do produto: 6133 | SKU: F4-017F5 | EAN: 7312040090754
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 79,99
+   Preço anterior: R$ 89,99
+   Preço de catálogo: R$ 89,99
+   Desconto: 11.1% | Economia: R$ 10,00
+
+39. Whisky Chivas Regal 12 Anos 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/6182/whisky-chivas-regal-12-anos-750ml
+   ID do produto: 6182 | SKU: F4-01826 | EAN: 80432400395
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 99,99
+   Preço anterior: R$ 129,99
+   Preço de catálogo: R$ 129,99
+   Desconto: 23.1% | Economia: R$ 30,00
+
+40. Whisky Irish Jameson 750ml
+   Link: https://www.supermercadojaguare.com.br/produto/6204/whisky-irish-jameson-750ml
+   ID do produto: 6204 | SKU: F4-0183C | EAN: 5011007003029
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 79,99
+   Preço anterior: R$ 99,99
+   Preço de catálogo: R$ 99,99
+   Desconto: 20.0% | Economia: R$ 20,00

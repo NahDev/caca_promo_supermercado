@@ -1,0 +1,869 @@
+RELATÓRIO DE PROMOÇÕES - SUPERMERCADO JAGUARÉ
+======================================================================
+Supermercado: Supermercado Jaguaré (jaguare)
+Plataforma: vipcommerce
+Gerado em: 27/06/2026 00:31:39
+Lote de coleta: 27/06/2026 00:31:20
+Fonte: https://www.supermercadojaguare.com.br/ofertas
+
+RESUMO GERAL
+----------------------------------------------------------------------
+Total de promoções: 64
+Produtos disponíveis: 61
+Produtos indisponíveis: 3
+Tipos de oferta distintos: 1
+
+RESUMO POR TIPO DE OFERTA
+----------------------------------------------------------------------
+Ofertas Clube: 64
+
+ESTATÍSTICAS DE DESCONTO
+----------------------------------------------------------------------
+Produtos com desconto calculado: 64
+Desconto médio: 16.9%
+Maior desconto: 25.0%
+Economia total estimada (soma dos descontos): R$ 265,89
+
+MAIORES DESCONTOS (TOP 20)
+----------------------------------------------------------------------
+1. Barra Proteína Protein Crisp Butter 45g
+   Link: https://www.supermercadojaguare.com.br/produto/6695/barra-proteina-protein-crisp-butter-45g
+   ID do produto: 6695 | SKU: F4-01A27 | EAN: 7896311710348
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+2. Barra Proteína Protein Crisp Trufa Com Avelã 45g
+   Link: https://www.supermercadojaguare.com.br/produto/6696/barra-proteina-protein-crisp-trufa-com-avela-45g
+   ID do produto: 6696 | SKU: F4-01A28 | EAN: 7896311710300
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+3. Barra De Proteína Crisp Bar Integralmédica Leite Ninho Com Creme De Avelã
+   Link: https://www.supermercadojaguare.com.br/produto/13606/barra-de-proteina-crisp-bar-integralmedica-leite-ninho-com-creme-de-avela
+   ID do produto: 13606 | SKU: F4-03526 | EAN: 7896311768332
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+4. Barra Proteina Crisp Bar Churros
+   Link: https://www.supermercadojaguare.com.br/produto/13604/barra-proteina-crisp-bar-churros
+   ID do produto: 13604 | SKU: F4-03524 | EAN: 7896311769087
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+5. Cereal Barra Protein Crisp Cookies Cream 45g
+   Link: https://www.supermercadojaguare.com.br/produto/13605/cereal-barra-protein-crisp-cookies-cream-45g
+   ID do produto: 13605 | SKU: F4-03525 | EAN: 7896311773275
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+6. Barra Protein Crisp Doce De Coco 45g
+   Link: https://www.supermercadojaguare.com.br/produto/15362/barra-protein-crisp-doce-de-coco-45g
+   ID do produto: 15362 | SKU: F4-03C02 | EAN: 7896311710317
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+7. Cereal Barra Protein Crisp Duo Crunch 45g
+   Link: https://www.supermercadojaguare.com.br/produto/16299/cereal-barra-protein-crisp-duo-crunch-45g
+   ID do produto: 16299 | SKU: F4-03FAB | EAN: 7896311773299
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+8. Barra De Proteína Protein Crisp Ovomaltine 45g
+   Link: https://www.supermercadojaguare.com.br/produto/19380/barra-de-proteina-protein-crisp-ovomaltine-45g
+   ID do produto: 19380 | SKU: F4-04BB4 | EAN: 7896311778041
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+9. Barra Protein Crisp Creme De Coco 45g
+   Link: https://www.supermercadojaguare.com.br/produto/21719/barra-protein-crisp-creme-de-coco-45g
+   ID do produto: 21719 | SKU: F4-054D7 | EAN: 7896311775705
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+10. Sobrecoxa De Frango 600g
+   Link: https://www.supermercadojaguare.com.br/produto/898/sobrecoxa-de-frango-600g
+   ID do produto: 898 | SKU: F4-00382 | EAN: 242
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 7,79
+   Preço anterior: R$ 10,19
+   Preço de catálogo: R$ 10,19
+   Desconto: 23.6% | Economia: R$ 2,40
+
+11. Lava Roupas Pó Omo Lavagem Perfeita 800g
+   Link: https://www.supermercadojaguare.com.br/produto/4911/lava-roupas-po-omo-lavagem-perfeita-800g
+   ID do produto: 4911 | SKU: F4-0132F | EAN: 7891150064317
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 12,99
+   Preço anterior: R$ 16,98
+   Preço de catálogo: R$ 16,99
+   Desconto: 23.5% | Economia: R$ 3,99
+
+12. Suco Integral Prats Laranja 900ml
+   Link: https://www.supermercadojaguare.com.br/produto/12340/suco-integral-prats-laranja-900ml
+   ID do produto: 12340 | SKU: F4-03034 | EAN: 7898953148169
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 12,99
+   Preço anterior: R$ 16,98
+   Preço de catálogo: R$ 16,99
+   Desconto: 23.5% | Economia: R$ 3,99
+
+13. Requeijão Catupiry Copocrem 200g
+   Link: https://www.supermercadojaguare.com.br/produto/15726/requeijao-catupiry-copocrem-200g
+   ID do produto: 15726 | SKU: F4-03D6E | EAN: 7896353301184
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 12,99
+   Preço de catálogo: R$ 12,99
+   Desconto: 23.1% | Economia: R$ 3,00
+
+14. Requeijão Catupiry Copocrem Light 200g
+   Link: https://www.supermercadojaguare.com.br/produto/15727/requeijao-catupiry-copocrem-light-200g
+   ID do produto: 15727 | SKU: F4-03D6F | EAN: 7896353301191
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 12,99
+   Preço de catálogo: R$ 12,99
+   Desconto: 23.1% | Economia: R$ 3,00
+
+15. Linguiça Toscana Sadia 500g
+   Link: https://www.supermercadojaguare.com.br/produto/445/linguica-toscana-sadia-500g
+   ID do produto: 445 | SKU: F4-001BD | EAN: 231
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 12,49
+   Preço de catálogo: R$ 12,50
+   Desconto: 20.0% | Economia: R$ 2,50
+
+16. Papel Higiênico Fofopel Folha Dupla Leve 12 Pague 11
+   Link: https://www.supermercadojaguare.com.br/produto/10530/papel-higienico-fofopel-folha-dupla-leve-12-pague-11
+   ID do produto: 10530 | SKU: F4-02922 | EAN: 7898913112117
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 19,98
+   Preço anterior: R$ 24,99
+   Preço de catálogo: R$ 24,99
+   Desconto: 20.0% | Economia: R$ 5,01
+
+17. Café Em Capsula Lor Espresso Ristretto Decaffeinato Com 10 Unid 52g
+   Link: https://www.supermercadojaguare.com.br/produto/2310/cafe-em-capsula-lor-espresso-ristretto-decaffeinato-com-10-unid-52g
+   ID do produto: 2310 | SKU: F4-00906 | EAN: 8711000397466
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+18. Café Em Cápsula Torrado E Moído Espresso Guatemala Huehuetenango L`or Origins Collection Com 10 Unid
+   Link: https://www.supermercadojaguare.com.br/produto/2312/cafe-em-capsula-torrado-e-moido-espresso-guatemala-huehuetenango-lor-origins-collection-com-10-unid
+   ID do produto: 2312 | SKU: F4-00908 | EAN: 8711000460214
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+19. Café Em Cápsula Torrado E Moído Espresso India Karnataka L`or Origins Collection Com 10 Unid 52g 
+   Link: https://www.supermercadojaguare.com.br/produto/2313/cafe-em-capsula-torrado-e-moido-espresso-india-karnataka-lor-origins-collection-com-10-unid-52g
+   ID do produto: 2313 | SKU: F4-00909 | EAN: 8711000431108
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+20. Café Em Capsula Lor Espresso Colombia Com 10 Unid 52g 
+   Link: https://www.supermercadojaguare.com.br/produto/2309/cafe-em-capsula-lor-espresso-colombia-com-10-unid-52g
+   ID do produto: 2309 | SKU: F4-00905 | EAN: 8711000362679
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+LISTAGEM COMPLETA DE PROMOÇÕES
+----------------------------------------------------------------------
+1. Almond Breeze Piracanjuba 1l Amendoas Original
+   Link: https://www.supermercadojaguare.com.br/produto/6788/almond-breeze-piracanjuba-1l-amendoas-original
+   ID do produto: 6788 | SKU: F4-01A84 | EAN: 7898215157106
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 19,98
+   Preço de catálogo: R$ 19,99
+   Desconto: 15.0% | Economia: R$ 3,00
+
+2. Barra De Proteína Crisp Bar Integralmédica Leite Ninho Com Creme De Avelã
+   Link: https://www.supermercadojaguare.com.br/produto/13606/barra-de-proteina-crisp-bar-integralmedica-leite-ninho-com-creme-de-avela
+   ID do produto: 13606 | SKU: F4-03526 | EAN: 7896311768332
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+3. Barra De Proteína Protein Crisp Ovomaltine 45g
+   Link: https://www.supermercadojaguare.com.br/produto/19380/barra-de-proteina-protein-crisp-ovomaltine-45g
+   ID do produto: 19380 | SKU: F4-04BB4 | EAN: 7896311778041
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+4. Barra Protein Crisp Creme De Coco 45g
+   Link: https://www.supermercadojaguare.com.br/produto/21719/barra-protein-crisp-creme-de-coco-45g
+   ID do produto: 21719 | SKU: F4-054D7 | EAN: 7896311775705
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+5. Barra Protein Crisp Doce De Coco 45g
+   Link: https://www.supermercadojaguare.com.br/produto/15362/barra-protein-crisp-doce-de-coco-45g
+   ID do produto: 15362 | SKU: F4-03C02 | EAN: 7896311710317
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+6. Barra Proteina Crisp Bar Churros
+   Link: https://www.supermercadojaguare.com.br/produto/13604/barra-proteina-crisp-bar-churros
+   ID do produto: 13604 | SKU: F4-03524 | EAN: 7896311769087
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+7. Barra Proteína Protein Crisp Butter 45g
+   Link: https://www.supermercadojaguare.com.br/produto/6695/barra-proteina-protein-crisp-butter-45g
+   ID do produto: 6695 | SKU: F4-01A27 | EAN: 7896311710348
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+8. Barra Proteína Protein Crisp Trufa Com Avelã 45g
+   Link: https://www.supermercadojaguare.com.br/produto/6696/barra-proteina-protein-crisp-trufa-com-avela-45g
+   ID do produto: 6696 | SKU: F4-01A28 | EAN: 7896311710300
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+9. Bebida Almond Breeze Piracanjuba 1l Amendoa E Baunilha
+   Link: https://www.supermercadojaguare.com.br/produto/6785/bebida-almond-breeze-piracanjuba-1l-amendoa-e-baunilha
+   ID do produto: 6785 | SKU: F4-01A81 | EAN: 7898215157120
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 19,98
+   Preço de catálogo: R$ 19,99
+   Desconto: 15.0% | Economia: R$ 3,00
+
+10. Bebida Almond Breeze Piracanjuba 1l Amendoas E Chocolate
+   Link: https://www.supermercadojaguare.com.br/produto/6786/bebida-almond-breeze-piracanjuba-1l-amendoas-e-chocolate
+   ID do produto: 6786 | SKU: F4-01A82 | EAN: 7898215157113
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 19,98
+   Preço de catálogo: R$ 19,99
+   Desconto: 15.0% | Economia: R$ 3,00
+
+11. Bebida Á Base De Amêndoa Almond Breeze Coco 1l
+   Link: https://www.supermercadojaguare.com.br/produto/6787/bebida-a-base-de-amendoa-almond-breeze-coco-1l
+   ID do produto: 6787 | SKU: F4-01A83 | EAN: 7898215157694
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 19,98
+   Preço de catálogo: R$ 19,99
+   Desconto: 15.0% | Economia: R$ 3,00
+
+12. Café Em Capsula Lor Espresso Colombia Com 10 Unid 52g 
+   Link: https://www.supermercadojaguare.com.br/produto/2309/cafe-em-capsula-lor-espresso-colombia-com-10-unid-52g
+   ID do produto: 2309 | SKU: F4-00905 | EAN: 8711000362679
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+13. Café Em Capsula Lor Espresso Forza 52g
+   Link: https://www.supermercadojaguare.com.br/produto/2311/cafe-em-capsula-lor-espresso-forza-52g
+   ID do produto: 2311 | SKU: F4-00907 | EAN: 8711000362570
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+14. Café Em Capsula Lor Espresso Imola 52g
+   Link: https://www.supermercadojaguare.com.br/produto/19737/cafe-em-capsula-lor-espresso-imola-52g
+   ID do produto: 19737 | SKU: F4-04D19 | EAN: 8711000579176
+   Marca: N/D | Unidade: UN | Disponível: Não
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+15. Café Em Capsula Lor Espresso Maranello 52g
+   Link: https://www.supermercadojaguare.com.br/produto/19738/cafe-em-capsula-lor-espresso-maranello-52g
+   ID do produto: 19738 | SKU: F4-04D1A | EAN: 8711000579053
+   Marca: N/D | Unidade: UN | Disponível: Não
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+16. Café Em Capsula Lor Espresso Onyx Com 10 Unid 52g 
+   Link: https://www.supermercadojaguare.com.br/produto/2315/cafe-em-capsula-lor-espresso-onyx-com-10-unid-52g
+   ID do produto: 2315 | SKU: F4-0090B | EAN: 8711000362631
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+17. Café Em Capsula Lor Espresso Ristretto 10 Unid 52g 
+   Link: https://www.supermercadojaguare.com.br/produto/2317/cafe-em-capsula-lor-espresso-ristretto-10-unid-52g
+   ID do produto: 2317 | SKU: F4-0090D | EAN: 8711000362747
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+18. Café Em Capsula Lor Espresso Ristretto Decaffeinato Com 10 Unid 52g
+   Link: https://www.supermercadojaguare.com.br/produto/2310/cafe-em-capsula-lor-espresso-ristretto-decaffeinato-com-10-unid-52g
+   ID do produto: 2310 | SKU: F4-00906 | EAN: 8711000397466
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+19. Café Em Capsula Lor Espresso Sontuoso 52g
+   Link: https://www.supermercadojaguare.com.br/produto/2318/cafe-em-capsula-lor-espresso-sontuoso-52g
+   ID do produto: 2318 | SKU: F4-0090E | EAN: 8711000362556
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+20. Café Em Cápsula Espresso Lor Baunilha Com 10 Unid
+   Link: https://www.supermercadojaguare.com.br/produto/2319/cafe-em-capsula-espresso-lor-baunilha-com-10-unid
+   ID do produto: 2319 | SKU: F4-0090F | EAN: 8711000488218
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+21. Café Em Cápsula Espresso Lor Caramelo Com 10 Unid
+   Link: https://www.supermercadojaguare.com.br/produto/2308/cafe-em-capsula-espresso-lor-caramelo-com-10-unid
+   ID do produto: 2308 | SKU: F4-00904 | EAN: 8711000488232
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+22. Café Em Cápsula Torrado E Moído Espresso Guatemala Huehuetenango L`or Origins Collection Com 10 Unid
+   Link: https://www.supermercadojaguare.com.br/produto/2312/cafe-em-capsula-torrado-e-moido-espresso-guatemala-huehuetenango-lor-origins-collection-com-10-unid
+   ID do produto: 2312 | SKU: F4-00908 | EAN: 8711000460214
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+23. Café Em Cápsula Torrado E Moído Espresso India Karnataka L`or Origins Collection Com 10 Unid 52g 
+   Link: https://www.supermercadojaguare.com.br/produto/2313/cafe-em-capsula-torrado-e-moido-espresso-india-karnataka-lor-origins-collection-com-10-unid-52g
+   ID do produto: 2313 | SKU: F4-00909 | EAN: 8711000431108
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+24. Café Pilão 500g Extra Forte Almofada
+   Link: https://www.supermercadojaguare.com.br/produto/21744/cafe-pilao-500g-extra-forte-almofada
+   ID do produto: 21744 | SKU: F4-054F0 | EAN: 7896089013399
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 31,99
+   Preço anterior: R$ 34,99
+   Preço de catálogo: R$ 34,99
+   Desconto: 8.6% | Economia: R$ 3,00
+
+25. Café Pilão Extra Forte Vacuo 500g
+   Link: https://www.supermercadojaguare.com.br/produto/18347/cafe-pilao-extra-forte-vacuo-500g
+   ID do produto: 18347 | SKU: F4-047AB | EAN: 7896089013405
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 31,99
+   Preço anterior: R$ 34,99
+   Preço de catálogo: R$ 34,99
+   Desconto: 8.6% | Economia: R$ 3,00
+
+26. Café Pilão Intenso Vacuo 500g
+   Link: https://www.supermercadojaguare.com.br/produto/18348/cafe-pilao-intenso-vacuo-500g
+   ID do produto: 18348 | SKU: F4-047AC | EAN: 7896089012880
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 31,99
+   Preço anterior: R$ 34,99
+   Preço de catálogo: R$ 34,99
+   Desconto: 8.6% | Economia: R$ 3,00
+
+27. Café Pilão Tradicional 500g Almofada
+   Link: https://www.supermercadojaguare.com.br/produto/2183/cafe-pilao-tradicional-500g-almofada
+   ID do produto: 2183 | SKU: F4-00887 | EAN: 7896089012019
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 31,99
+   Preço anterior: R$ 34,99
+   Preço de catálogo: R$ 34,99
+   Desconto: 8.6% | Economia: R$ 3,00
+
+28. Café Pilão Tradicional 500g Vácuo
+   Link: https://www.supermercadojaguare.com.br/produto/2187/cafe-pilao-tradicional-500g-vacuo
+   ID do produto: 2187 | SKU: F4-0088B | EAN: 7896089011357
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 31,99
+   Preço anterior: R$ 34,99
+   Preço de catálogo: R$ 34,99
+   Desconto: 8.6% | Economia: R$ 3,00
+
+29. Cereal Barra Protein Crisp Cookies Cream 45g
+   Link: https://www.supermercadojaguare.com.br/produto/13605/cereal-barra-protein-crisp-cookies-cream-45g
+   ID do produto: 13605 | SKU: F4-03525 | EAN: 7896311773275
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+30. Cereal Barra Protein Crisp Duo Crunch 45g
+   Link: https://www.supermercadojaguare.com.br/produto/16299/cereal-barra-protein-crisp-duo-crunch-45g
+   ID do produto: 16299 | SKU: F4-03FAB | EAN: 7896311773299
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 25.0% | Economia: R$ 3,00
+
+31. Creme De Avelã Nutella Ferrero Com Cacau 650g
+   Link: https://www.supermercadojaguare.com.br/produto/7472/creme-de-avela-nutella-ferrero-com-cacau-650g
+   ID do produto: 7472 | SKU: F4-01D30 | EAN: 7898024396529
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 49,99
+   Preço anterior: R$ 59,99
+   Preço de catálogo: R$ 59,99
+   Desconto: 16.7% | Economia: R$ 10,00
+
+32. Cápsula De Café L’or Espresso Lungo Extremo 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/14439/capsula-de-cafe-l’or-espresso-lungo-extremo-10-unidades
+   ID do produto: 14439 | SKU: F4-03867 | EAN: 7896089088335
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+33. Cápsula De Café L’or Espresso Ultimo 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/14440/capsula-de-cafe-l’or-espresso-ultimo-10-unidades
+   ID do produto: 14440 | SKU: F4-03868 | EAN: 8711000471296
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+34. Cápsulas Café L`or Espresso Brazil 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/20127/capsulas-cafe-lor-espresso-brazil-10-unidades
+   ID do produto: 20127 | SKU: F4-04E9F | EAN: 8711000573426
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+35. Cápsulas Café L`or Espresso Chocolate 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/18209/capsulas-cafe-lor-espresso-chocolate-10-unidades
+   ID do produto: 18209 | SKU: F4-04721 | EAN: 8711000488195
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+36. Cápsulas Café L`or Espresso Hazelnut 10 Unidades
+   Link: https://www.supermercadojaguare.com.br/produto/20128/capsulas-cafe-lor-espresso-hazelnut-10-unidades
+   ID do produto: 20128 | SKU: F4-04EA0 | EAN: 8711000712580
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 21,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 18.5% | Economia: R$ 5,00
+
+37. Filezinho De Frango (sassami) Sadia Pacote Com 1kg
+   Link: https://www.supermercadojaguare.com.br/produto/4089/filezinho-de-frango-sassami-sadia-pacote-com-1kg
+   ID do produto: 4089 | SKU: F4-00FF9 | EAN: 7893000516083
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 16.7% | Economia: R$ 5,00
+
+38. Filé De Peito Sadia Na Medida 1kg
+   Link: https://www.supermercadojaguare.com.br/produto/4083/file-de-peito-sadia-na-medida-1kg
+   ID do produto: 4083 | SKU: F4-00FF3 | EAN: 7893000005945
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 16.7% | Economia: R$ 5,00
+
+39. Geleia St. Dalfour Amora Silvestre 284g
+   Link: https://www.supermercadojaguare.com.br/produto/8626/geleia-st-dalfour-amora-silvestre-284g
+   ID do produto: 8626 | SKU: F4-021B2 | EAN: 84380957147
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+40. Geleia St. Dalfour Cassis 284g
+   Link: https://www.supermercadojaguare.com.br/produto/8627/geleia-st-dalfour-cassis-284g
+   ID do produto: 8627 | SKU: F4-021B3 | EAN: 84380958045
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+41. Geleia St. Dalfour Cereja 284g 
+   Link: https://www.supermercadojaguare.com.br/produto/4192/geleia-st-dalfour-cereja-284g
+   ID do produto: 4192 | SKU: F4-01060 | EAN: 84380957048
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+42. Geleia St. Dalfour Cranberry Com Mirtilos 284g
+   Link: https://www.supermercadojaguare.com.br/produto/8628/geleia-st-dalfour-cranberry-com-mirtilos-284g
+   ID do produto: 8628 | SKU: F4-021B4 | EAN: 84380982224
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+43. Geleia St. Dalfour Damasco 284g
+   Link: https://www.supermercadojaguare.com.br/produto/8629/geleia-st-dalfour-damasco-284g
+   ID do produto: 8629 | SKU: F4-021B5 | EAN: 84380957543
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+44. Geleia St. Dalfour Figo 284g
+   Link: https://www.supermercadojaguare.com.br/produto/8630/geleia-st-dalfour-figo-284g
+   ID do produto: 8630 | SKU: F4-021B6 | EAN: 84380959042
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+45. Geleia St. Dalfour Framboesa 284g
+   Link: https://www.supermercadojaguare.com.br/produto/4193/geleia-st-dalfour-framboesa-284g
+   ID do produto: 4193 | SKU: F4-01061 | EAN: 84380957741
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+46. Geleia St. Dalfour Laranja 284g
+   Link: https://www.supermercadojaguare.com.br/produto/8631/geleia-st-dalfour-laranja-284g
+   ID do produto: 8631 | SKU: F4-021B7 | EAN: 84380957949
+   Marca: N/D | Unidade: UN | Disponível: Não
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+47. Geleia St. Dalfour Maçã E Canela 284g
+   Link: https://www.supermercadojaguare.com.br/produto/8632/geleia-st-dalfour-maca-e-canela-284g
+   ID do produto: 8632 | SKU: F4-021B8 | EAN: 3492390020282
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+48. Geleia St. Dalfour Mirtilos 284g
+   Link: https://www.supermercadojaguare.com.br/produto/4194/geleia-st-dalfour-mirtilos-284g
+   ID do produto: 4194 | SKU: F4-01062 | EAN: 84380957246
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+49. Geleia St. Dalfour Morango 284g
+   Link: https://www.supermercadojaguare.com.br/produto/4195/geleia-st-dalfour-morango-284g
+   ID do produto: 4195 | SKU: F4-01063 | EAN: 84380957444
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+50. Geleia St. Dalfour Quatro Frutas 284g
+   Link: https://www.supermercadojaguare.com.br/produto/4196/geleia-st-dalfour-quatro-frutas-284g
+   ID do produto: 4196 | SKU: F4-01064 | EAN: 84380957840
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+51. Gnocchi Don Ravello 500g
+   Link: https://www.supermercadojaguare.com.br/produto/18183/gnocchi-don-ravello-500g
+   ID do produto: 18183 | SKU: F4-04707 | EAN: 618341191914
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 16.7% | Economia: R$ 2,00
+
+52. Lava Roupas Pó Omo Lavagem Perfeita 800g
+   Link: https://www.supermercadojaguare.com.br/produto/4911/lava-roupas-po-omo-lavagem-perfeita-800g
+   ID do produto: 4911 | SKU: F4-0132F | EAN: 7891150064317
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 12,99
+   Preço anterior: R$ 16,98
+   Preço de catálogo: R$ 16,99
+   Desconto: 23.5% | Economia: R$ 3,99
+
+53. Linguiça Toscana Sadia 500g
+   Link: https://www.supermercadojaguare.com.br/produto/445/linguica-toscana-sadia-500g
+   ID do produto: 445 | SKU: F4-001BD | EAN: 231
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 12,49
+   Preço de catálogo: R$ 12,50
+   Desconto: 20.0% | Economia: R$ 2,50
+
+54. Mini Baguete Leviassa 240g
+   Link: https://www.supermercadojaguare.com.br/produto/21632/mini-baguete-leviassa-240g
+   ID do produto: 21632 | SKU: F4-05480 | EAN: 7898694173505
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 16.7% | Economia: R$ 2,00
+
+55. Papel Higiênico Fofopel Folha Dupla Leve 12 Pague 11
+   Link: https://www.supermercadojaguare.com.br/produto/10530/papel-higienico-fofopel-folha-dupla-leve-12-pague-11
+   ID do produto: 10530 | SKU: F4-02922 | EAN: 7898913112117
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 19,98
+   Preço anterior: R$ 24,99
+   Preço de catálogo: R$ 24,99
+   Desconto: 20.0% | Economia: R$ 5,01
+
+56. Pão Ciabatta Leviassa Grãos 220g
+   Link: https://www.supermercadojaguare.com.br/produto/21633/pao-ciabatta-leviassa-graos-220g
+   ID do produto: 21633 | SKU: F4-05481 | EAN: 7898694173703
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 16.7% | Economia: R$ 2,00
+
+57. Pão Ciabatta Leviassa Tradicional 220g
+   Link: https://www.supermercadojaguare.com.br/produto/21631/pao-ciabatta-leviassa-tradicional-220g
+   ID do produto: 21631 | SKU: F4-0547F | EAN: 7898694172621
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 16.7% | Economia: R$ 2,00
+
+58. Pão De Queijo Forno De Minas Cong. Lanche 820g
+   Link: https://www.supermercadojaguare.com.br/produto/10369/pao-de-queijo-forno-de-minas-cong-lanche-820g
+   ID do produto: 10369 | SKU: F4-02881 | EAN: 7896074606803
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+59. Pão De Queijo Forno De Minas Coquetel 820g
+   Link: https://www.supermercadojaguare.com.br/produto/10368/pao-de-queijo-forno-de-minas-coquetel-820g
+   ID do produto: 10368 | SKU: F4-02880 | EAN: 7896074606742
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+60. Pão De Queijo Forno De Minas Tradicional 820g
+   Link: https://www.supermercadojaguare.com.br/produto/10371/pao-de-queijo-forno-de-minas-tradicional-820g
+   ID do produto: 10371 | SKU: F4-02883 | EAN: 7896074606735
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 39,99
+   Preço anterior: R$ 44,99
+   Preço de catálogo: R$ 44,99
+   Desconto: 11.1% | Economia: R$ 5,00
+
+61. Requeijão Catupiry Copocrem 200g
+   Link: https://www.supermercadojaguare.com.br/produto/15726/requeijao-catupiry-copocrem-200g
+   ID do produto: 15726 | SKU: F4-03D6E | EAN: 7896353301184
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 12,99
+   Preço de catálogo: R$ 12,99
+   Desconto: 23.1% | Economia: R$ 3,00
+
+62. Requeijão Catupiry Copocrem Light 200g
+   Link: https://www.supermercadojaguare.com.br/produto/15727/requeijao-catupiry-copocrem-light-200g
+   ID do produto: 15727 | SKU: F4-03D6F | EAN: 7896353301191
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 12,99
+   Preço de catálogo: R$ 12,99
+   Desconto: 23.1% | Economia: R$ 3,00
+
+63. Sobrecoxa De Frango 600g
+   Link: https://www.supermercadojaguare.com.br/produto/898/sobrecoxa-de-frango-600g
+   ID do produto: 898 | SKU: F4-00382 | EAN: 242
+   Marca: N/D | Unidade: KG | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 7,79
+   Preço anterior: R$ 10,19
+   Preço de catálogo: R$ 10,19
+   Desconto: 23.6% | Economia: R$ 2,40
+
+64. Suco Integral Prats Laranja 900ml
+   Link: https://www.supermercadojaguare.com.br/produto/12340/suco-integral-prats-laranja-900ml
+   ID do produto: 12340 | SKU: F4-03034 | EAN: 7898953148169
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Ofertas Clube (tag: ofertas-clube)
+   Preço promocional: R$ 12,99
+   Preço anterior: R$ 16,98
+   Preço de catálogo: R$ 16,99
+   Desconto: 23.5% | Economia: R$ 3,99

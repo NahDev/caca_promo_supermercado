@@ -1,0 +1,1264 @@
+RELATÓRIO DE PROMOÇÕES - MAMBO SUPERMERCADO
+======================================================================
+Supermercado: Mambo Supermercado (mambo)
+Plataforma: vtex
+Gerado em: 21/06/2026 20:35:38
+Lote de coleta: 21/06/2026 20:35:35
+Fonte: https://www.mambo.com.br/162?map=productClusterIds
+
+RESUMO GERAL
+----------------------------------------------------------------------
+Total de promoções: 100
+Produtos disponíveis: 100
+Produtos indisponíveis: 0
+Tipos de oferta distintos: 36
+
+RESUMO POR TIPO DE OFERTA
+----------------------------------------------------------------------
+-23%: 14
+-33%: 8
+-20%: 7
+-22%: 6
+-24%: 5
+-27%: 5
+Oferta: 5
+-30%: 3
+-32%: 3
+-19%: 3
+-29%: 3
+-28%: 2
+-21%: 2
+-26%: 2
+-10%: 2
+-36%: 2
+-31%: 2
+-39%: 2
+-44%: 2
+-18%: 2
+-37%: 2
+-34%: 2
+-14%: 2
+-17%: 2
+-51%: 1
+-47%: 1
+-35%: 1
+-9%: 1
+-11%: 1
+-38%: 1
+-50%: 1
+-41%: 1
+-15%: 1
+Plant Based: 1
+-16%: 1
+-25%: 1
+
+ESTATÍSTICAS DE DESCONTO
+----------------------------------------------------------------------
+Produtos com desconto calculado: 95
+Desconto médio: 26.6%
+Maior desconto: 51.3%
+Economia total estimada (soma dos descontos): R$ 841,20
+
+MAIORES DESCONTOS (TOP 20)
+----------------------------------------------------------------------
+1. Queijo Mozzarella Búfala Bola Cereja Momento Mambo 160g
+   Link: https://www.mambo.com.br/queijo-mozzarella-bufala-bola-cereja-momento-mambo-160g/p
+   ID do produto: 20580 | SKU: 20601 | EAN: 7898702151525
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -51% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 20,49
+   Preço de catálogo: R$ 20,49
+   Desconto: 51.3% | Economia: R$ 10,51
+
+2. Batata Palha Tradicional Yoki 105g
+   Link: https://www.mambo.com.br/batata-palha-tradicional-yoki-105g/p
+   ID do produto: 1477 | SKU: 1480 | EAN: 7891095031115
+   Marca: Yoki | Unidade: un | Disponível: Sim
+   Tipo de oferta: -50% (tag: oferta)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 13,98
+   Preço de catálogo: R$ 13,98
+   Desconto: 50.0% | Economia: R$ 6,99
+
+3. Azeite Português Extra Virgem Herdade do Esporão 500ml
+   Link: https://www.mambo.com.br/azeite-portugues-extra-virgem-herdade-do-esporao-500ml/p
+   ID do produto: 1019 | SKU: 1022 | EAN: 5601989003126
+   Marca: Herdade do Esporão | Unidade: un | Disponível: Sim
+   Tipo de oferta: -47% (tag: oferta)
+   Preço promocional: R$ 59,98
+   Preço anterior: R$ 112,49
+   Preço de catálogo: R$ 112,49
+   Desconto: 46.7% | Economia: R$ 52,51
+
+4. Suco de Laranja e Maçã Natural One 1,3L
+   Link: https://www.mambo.com.br/suco-de-laranja-e-maca-natural-one-13l/p
+   ID do produto: 28227 | SKU: 284415 | EAN: 7899916918720
+   Marca: Natural One | Unidade: un | Disponível: Sim
+   Tipo de oferta: -44% (tag: oferta)
+   Preço promocional: R$ 14,98
+   Preço anterior: R$ 26,98
+   Preço de catálogo: R$ 26,98
+   Desconto: 44.5% | Economia: R$ 12,00
+
+5. Suco de Uva, Pera e Maçã Ambiente The Natural One 1,3L
+   Link: https://www.mambo.com.br/suco-de-uva--pera-e-maca-ambiente-the-natural-one-1-3l/p
+   ID do produto: 28229 | SKU: 284417 | EAN: 7899916918645
+   Marca: Natural One | Unidade: un | Disponível: Sim
+   Tipo de oferta: -44% (tag: oferta)
+   Preço promocional: R$ 14,98
+   Preço anterior: R$ 26,98
+   Preço de catálogo: R$ 26,98
+   Desconto: 44.5% | Economia: R$ 12,00
+
+6. Queijo Parmesão Ralado Vigor 100g
+   Link: https://www.mambo.com.br/queijo-parmesao-ralado-vigor-100g/p
+   ID do produto: 11990 | SKU: 12003 | EAN: 7891999970107
+   Marca: Vigor | Unidade: un | Disponível: Sim
+   Tipo de oferta: -41% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 16,98
+   Preço de catálogo: R$ 16,98
+   Desconto: 41.2% | Economia: R$ 7,00
+
+7. Batata Original Pringles 104g
+   Link: https://www.mambo.com.br/batata-original-pringles-104g/p
+   ID do produto: 20753 | SKU: 20774 | EAN: 7896004006277
+   Marca: Pringles | Unidade: un | Disponível: Sim
+   Tipo de oferta: -39% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 16,49
+   Preço de catálogo: R$ 16,49
+   Desconto: 39.5% | Economia: R$ 6,51
+
+8. Caixa de Bombom Variedades Favoritos Lacta 250,6g
+   Link: https://www.mambo.com.br/caixa-de-bombom-variedades-favoritos-lacta-2506g/p
+   ID do produto: 2826 | SKU: 2833 | EAN: 7622210596413
+   Marca: Lacta | Unidade: un | Disponível: Sim
+   Tipo de oferta: -39% (tag: oferta)
+   Preço promocional: R$ 13,99
+   Preço anterior: R$ 22,98
+   Preço de catálogo: R$ 22,98
+   Desconto: 39.1% | Economia: R$ 8,99
+
+9. Bife Ancho Maturatta Friboi Kg
+   Link: https://www.mambo.com.br/bife-ancho-maturatta-friboi/p
+   ID do produto: 1737 | SKU: 1741 | EAN: 2004889
+   Marca: Friboi | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -38% (tag: oferta)
+   Preço promocional: R$ 49,98
+   Preço anterior: R$ 79,98
+   Preço de catálogo: R$ 79,98
+   Desconto: 37.5% | Economia: R$ 30,00
+
+10. Granola Tradicional Sem Açúcar Mãe Terra 800g
+   Link: https://www.mambo.com.br/granola-tradicional-sem-acucar-mae-terra-800g/p
+   ID do produto: 16684 | SKU: 16699 | EAN: 7891150087606
+   Marca: Mãe Terra | Unidade: un | Disponível: Sim
+   Tipo de oferta: -37% (tag: oferta)
+   Preço promocional: R$ 27,98
+   Preço anterior: R$ 44,49
+   Preço de catálogo: R$ 44,49
+   Desconto: 37.1% | Economia: R$ 16,51
+
+11. Batata Frita Clássica Lays 115g
+   Link: https://www.mambo.com.br/batata-frita-classica-lays-115g/p
+   ID do produto: 23749 | SKU: 23775 | EAN: 7892840823405
+   Marca: Lays | Unidade: un | Disponível: Sim
+   Tipo de oferta: -37% (tag: oferta)
+   Preço promocional: R$ 11,98
+   Preço anterior: R$ 18,98
+   Preço de catálogo: R$ 18,98
+   Desconto: 36.9% | Economia: R$ 7,00
+
+12. Batata Palha Extra Fina Yoki 100g
+   Link: https://www.mambo.com.br/batata-palha-extra-fina-yoki-100g/p
+   ID do produto: 1467 | SKU: 1470 | EAN: 7891095031122
+   Marca: Yoki | Unidade: un | Disponível: Sim
+   Tipo de oferta: -36% (tag: oferta)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 10,98
+   Preço de catálogo: R$ 10,98
+   Desconto: 36.3% | Economia: R$ 3,99
+
+13. Filtro de Papel 103 Melitta com 30 unidades
+   Link: https://www.mambo.com.br/filtro-de-papel-103-melitta-com-30-unidades/p
+   ID do produto: 6145 | SKU: 6155 | EAN: 7891021001946
+   Marca: Melitta | Unidade: un | Disponível: Sim
+   Tipo de oferta: -36% (tag: oferta)
+   Preço promocional: R$ 3,99
+   Preço anterior: R$ 6,19
+   Preço de catálogo: R$ 6,19
+   Desconto: 35.5% | Economia: R$ 2,20
+
+14. Morangos Congelados Momento Mambo 1,02kg
+   Link: https://www.mambo.com.br/morangos-congelados-momento-mambo-1-02kg/p
+   ID do produto: 19781 | SKU: 19804 | EAN: 7898702154687
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -35% (tag: oferta)
+   Preço promocional: R$ 21,98
+   Preço anterior: R$ 33,98
+   Preço de catálogo: R$ 33,98
+   Desconto: 35.3% | Economia: R$ 12,00
+
+15. Presunto Cru Italiano Fatiado Vito Balducci 100g
+   Link: https://www.mambo.com.br/presunto-cru-italiano-fatiado-vito-balducci-100g/p
+   ID do produto: 11200 | SKU: 11213 | EAN: 7898902568109
+   Marca: Vito Balducci | Unidade: un | Disponível: Sim
+   Tipo de oferta: -34% (tag: oferta)
+   Preço promocional: R$ 24,98
+   Preço anterior: R$ 37,98
+   Preço de catálogo: R$ 37,98
+   Desconto: 34.2% | Economia: R$ 13,00
+
+16. Saco de Lixo Reforçado Preto Emba Lixo 50L com 30 Unidades
+   Link: https://www.mambo.com.br/saco-de-lixo-50-litros-reforcado-preto-wecycle-30-unidades/p
+   ID do produto: 13041 | SKU: 13055 | EAN: 7898226515186
+   Marca: Embalixo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -34% (tag: oferta)
+   Preço promocional: R$ 19,18
+   Preço anterior: R$ 28,98
+   Preço de catálogo: R$ 28,98
+   Desconto: 33.8% | Economia: R$ 9,80
+
+17. Presunto Cru Fatiado Figueiras 100g
+   Link: https://www.mambo.com.br/presunto-cru-fatiado-figueiras-100g/p
+   ID do produto: 27444 | SKU: 283632 | EAN: 7898902568680
+   Marca: Figueiras | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 22,98
+   Preço anterior: R$ 34,49
+   Preço de catálogo: R$ 34,49
+   Desconto: 33.4% | Economia: R$ 11,51
+
+18. Queijo Processado Light Polenguinho 136g com 8 unidades
+   Link: https://www.mambo.com.br/queijo-processado-light-polenguinho-136g-com-8-unidades/p
+   ID do produto: 12029 | SKU: 12042 | EAN: 7891143017399
+   Marca: Polenghi | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 14,98
+   Preço de catálogo: R$ 14,98
+   Desconto: 33.4% | Economia: R$ 5,00
+
+19. Saco de Lixo para Banheiro Mega Econômico Embalixo com 120+30 Grátis
+   Link: https://www.mambo.com.br/saco-de-lixo-para-banheiro-mega-economico-embalixo-com-12030-gratis/p
+   ID do produto: 13053 | SKU: 13067 | EAN: 7898226514943
+   Marca: Embalixo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 19,98
+   Preço anterior: R$ 29,98
+   Preço de catálogo: R$ 29,98
+   Desconto: 33.4% | Economia: R$ 10,00
+
+20. Água De Coco Momento Mambo 1L
+   Link: https://www.mambo.com.br/agua-de-coco-momento-mambo-1l/p
+   ID do produto: 24310 | SKU: 24338 | EAN: 7898702153192
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 14,98
+   Preço de catálogo: R$ 14,98
+   Desconto: 33.3% | Economia: R$ 4,99
+
+LISTAGEM COMPLETA DE PROMOÇÕES
+----------------------------------------------------------------------
+1. Arroz Polido Tipo 1 Tio João 2Kg
+   Link: https://www.mambo.com.br/arroz-polido-tipo-1-tio-joao-pacote-2kg/p
+   ID do produto: 19256 | SKU: 19274 | EAN: 7893500020134
+   Marca: Tio João | Unidade: un | Disponível: Sim
+   Tipo de oferta: -17% (tag: oferta)
+   Preço promocional: R$ 10,79
+   Preço anterior: R$ 12,98
+   Preço de catálogo: R$ 12,98
+   Desconto: 16.9% | Economia: R$ 2,19
+
+2. Atum Sólido ao Natural Gomes da Costa 170g
+   Link: https://www.mambo.com.br/atum-solido-ao-natural-gomes-da-costa-170g/p
+   ID do produto: 892 | SKU: 894 | EAN: 7891167011755
+   Marca: Gomes da Costa | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 11,98
+   Preço anterior: R$ 15,49
+   Preço de catálogo: R$ 15,49
+   Desconto: 22.7% | Economia: R$ 3,51
+
+3. Atum Sólido em Óleo Gomes da Costa 170g
+   Link: https://www.mambo.com.br/atum-solido-em-oleo-gomes-da-costa-170g/p
+   ID do produto: 886 | SKU: 888 | EAN: 7891167011731
+   Marca: Gomes da Costa | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 11,98
+   Preço anterior: R$ 15,49
+   Preço de catálogo: R$ 15,49
+   Desconto: 22.7% | Economia: R$ 3,51
+
+4. Azeite Português Extra Virgem Andorinha 500ml
+   Link: https://www.mambo.com.br/azeite-portugues-extra-virgem-andorinha-500ml/p
+   ID do produto: 1003 | SKU: 1006 | EAN: 5601216120152
+   Marca: Andorinha | Unidade: un | Disponível: Sim
+   Tipo de oferta: -28% (tag: oferta)
+   Preço promocional: R$ 30,99
+   Preço anterior: R$ 42,98
+   Preço de catálogo: R$ 42,98
+   Desconto: 27.9% | Economia: R$ 11,99
+
+5. Azeite Português Extra Virgem Herdade do Esporão 500ml
+   Link: https://www.mambo.com.br/azeite-portugues-extra-virgem-herdade-do-esporao-500ml/p
+   ID do produto: 1019 | SKU: 1022 | EAN: 5601989003126
+   Marca: Herdade do Esporão | Unidade: un | Disponível: Sim
+   Tipo de oferta: -47% (tag: oferta)
+   Preço promocional: R$ 59,98
+   Preço anterior: R$ 112,49
+   Preço de catálogo: R$ 112,49
+   Desconto: 46.7% | Economia: R$ 52,51
+
+6. Azeite Português Tipo Único Andorinha 500ml
+   Link: https://www.mambo.com.br/azeite-portugues-tipo-unico-andorinha-500ml/p
+   ID do produto: 1029 | SKU: 1032 | EAN: 5601216120114
+   Marca: Andorinha | Unidade: un | Disponível: Sim
+   Tipo de oferta: -27% (tag: oferta)
+   Preço promocional: R$ 29,99
+   Preço anterior: R$ 40,98
+   Preço de catálogo: R$ 40,98
+   Desconto: 26.8% | Economia: R$ 10,99
+
+7. Açúcar Refinado União 1kg
+   Link: https://www.mambo.com.br/acucar-refinado-uniao-1kg/p
+   ID do produto: 1155 | SKU: 1158 | EAN: 7891910000197
+   Marca: União | Unidade: un | Disponível: Sim
+   Tipo de oferta: -22% (tag: oferta)
+   Preço promocional: R$ 3,99
+   Preço anterior: R$ 5,09
+   Preço de catálogo: R$ 5,09
+   Desconto: 21.6% | Economia: R$ 1,10
+
+8. Batata Frita Clássica Lays 115g
+   Link: https://www.mambo.com.br/batata-frita-classica-lays-115g/p
+   ID do produto: 23749 | SKU: 23775 | EAN: 7892840823405
+   Marca: Lays | Unidade: un | Disponível: Sim
+   Tipo de oferta: -37% (tag: oferta)
+   Preço promocional: R$ 11,98
+   Preço anterior: R$ 18,98
+   Preço de catálogo: R$ 18,98
+   Desconto: 36.9% | Economia: R$ 7,00
+
+9. Batata Original Pringles 104g
+   Link: https://www.mambo.com.br/batata-original-pringles-104g/p
+   ID do produto: 20753 | SKU: 20774 | EAN: 7896004006277
+   Marca: Pringles | Unidade: un | Disponível: Sim
+   Tipo de oferta: -39% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 16,49
+   Preço de catálogo: R$ 16,49
+   Desconto: 39.5% | Economia: R$ 6,51
+
+10. Batata Palha Extra Fina Yoki 100g
+   Link: https://www.mambo.com.br/batata-palha-extra-fina-yoki-100g/p
+   ID do produto: 1467 | SKU: 1470 | EAN: 7891095031122
+   Marca: Yoki | Unidade: un | Disponível: Sim
+   Tipo de oferta: -36% (tag: oferta)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 10,98
+   Preço de catálogo: R$ 10,98
+   Desconto: 36.3% | Economia: R$ 3,99
+
+11. Batata Palha Tradicional Yoki 105g
+   Link: https://www.mambo.com.br/batata-palha-tradicional-yoki-105g/p
+   ID do produto: 1477 | SKU: 1480 | EAN: 7891095031115
+   Marca: Yoki | Unidade: un | Disponível: Sim
+   Tipo de oferta: -50% (tag: oferta)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 13,98
+   Preço de catálogo: R$ 13,98
+   Desconto: 50.0% | Economia: R$ 6,99
+
+12. Bebida de Aveia Original Naveia 1L
+   Link: https://www.mambo.com.br/bebida-de-aveia-original-naveia-1l/p
+   ID do produto: 1528 | SKU: 1531 | EAN: 7898994972105
+   Marca: Evolat | Unidade: un | Disponível: Sim
+   Tipo de oferta: Plant Based (tag: 795)
+   Preço promocional: R$ 15,98
+   Preço anterior: R$ 23,49
+   Preço de catálogo: R$ 23,49
+   Desconto: 32.0% | Economia: R$ 7,51
+
+13. Bebida Vegetal A Tal da Castanha Amêndoa 1L
+   Link: https://www.mambo.com.br/bebida-vegetal-a-tal-da-castanha-amendoa-1l/p
+   ID do produto: 1648 | SKU: 1651 | EAN: 7898955705490
+   Marca: A Tal da Castanha | Unidade: un | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 21,98
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: N/D | Economia: N/D
+
+14. Bebida Vegetal Castanha-de-Caju e Aveia Barista A Tal da Castanha 1L
+   Link: https://www.mambo.com.br/bebida-vegetal-castanha-de-caju-e-aveia-barista-a-tal-da-castanha-1l/p
+   ID do produto: 1522 | SKU: 1525 | EAN: 7898955705988
+   Marca: A Tal da Castanha | Unidade: un | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 21,98
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: N/D | Economia: N/D
+
+15. Bebida Vegetal Original Orgânico A Tal da Castanha 1L
+   Link: https://www.mambo.com.br/bebida-vegetal-original-organico-a-tal-da-castanha-1l/p
+   ID do produto: 1694 | SKU: 1697 | EAN: 7898955705049
+   Marca: A Tal da Castanha | Unidade: un | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 21,98
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: N/D | Economia: N/D
+
+16. Bife Ancho Maturatta Friboi Kg
+   Link: https://www.mambo.com.br/bife-ancho-maturatta-friboi/p
+   ID do produto: 1737 | SKU: 1741 | EAN: 2004889
+   Marca: Friboi | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -38% (tag: oferta)
+   Preço promocional: R$ 49,98
+   Preço anterior: R$ 79,98
+   Preço de catálogo: R$ 79,98
+   Desconto: 37.5% | Economia: R$ 30,00
+
+17. Bife Ancho Resfriado Peça a Vácuo Bassi Kg
+   Link: https://www.mambo.com.br/bife-ancho-resfriado-peca-a-vacuo-bassi-kg/p
+   ID do produto: 1738 | SKU: 1742 | EAN: 2006953
+   Marca: Bassi | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -20% (tag: oferta)
+   Preço promocional: R$ 79,98
+   Preço anterior: R$ 99,98
+   Preço de catálogo: R$ 99,98
+   Desconto: 20.0% | Economia: R$ 20,00
+
+18. Biscoito Três Queijos Momento Mambo 400g
+   Link: https://www.mambo.com.br/biscoito-tres-queijos-momento-mambo-400g/p
+   ID do produto: 20639 | SKU: 20660 | EAN: 7898702151938
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: 22.7% | Economia: R$ 5,00
+
+19. Café em Grãos Tenor Torra Média Bravo 1kg
+   Link: https://www.mambo.com.br/cafe-tenor-torrado-em-grao-bravo-1kg/p
+   ID do produto: 2755 | SKU: 2762 | EAN: 7898204020046
+   Marca: Bravo Café | Unidade: un | Disponível: Sim
+   Tipo de oferta: -26% (tag: oferta)
+   Preço promocional: R$ 89,90
+   Preço anterior: R$ 121,49
+   Preço de catálogo: R$ 121,49
+   Desconto: 26.0% | Economia: R$ 31,59
+
+20. Café Torrado e Moído a Vácuo Tradicional 3 Corações Pacote 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-a-vacuo-tradicional-3-coracoes-pacote-500g/p
+   ID do produto: 2529 | SKU: 2536 | EAN: 7896045102440
+   Marca: 3 Corações | Unidade: un | Disponível: Sim
+   Tipo de oferta: -30% (tag: oferta)
+   Preço promocional: R$ 25,99
+   Preço anterior: R$ 36,98
+   Preço de catálogo: R$ 36,98
+   Desconto: 29.7% | Economia: R$ 10,99
+
+21. Café Torrado e Moído Estrada Real Vácuo 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-estrada-real-vacuo-500g/p
+   ID do produto: 2691 | SKU: 2698 | EAN: 7896045102402
+   Marca: 3 Corações | Unidade: un | Disponível: Sim
+   Tipo de oferta: -27% (tag: oferta)
+   Preço promocional: R$ 31,99
+   Preço anterior: R$ 43,98
+   Preço de catálogo: R$ 43,98
+   Desconto: 27.3% | Economia: R$ 11,99
+
+22. Café Torrado e Moído Extra Forte 3 Corações 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-extra-forte-3-coracoes-500g/p
+   ID do produto: 2637 | SKU: 2644 | EAN: 7896005801529
+   Marca: 3 Corações | Unidade: un | Disponível: Sim
+   Tipo de oferta: -30% (tag: oferta)
+   Preço promocional: R$ 25,99
+   Preço anterior: R$ 36,98
+   Preço de catálogo: R$ 36,98
+   Desconto: 29.7% | Economia: R$ 10,99
+
+23. Café Torrado e Moído Gourmet Cerrado Mineiro 3 Corações 250g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-gourmet-cerrado-mineiro-3-coracoes-250g/p
+   ID do produto: 2656 | SKU: 2663 | EAN: 7896045101658
+   Marca: 3 Corações | Unidade: un | Disponível: Sim
+   Tipo de oferta: -24% (tag: oferta)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 32,98
+   Preço de catálogo: R$ 32,98
+   Desconto: 24.2% | Economia: R$ 7,99
+
+24. Café Torrado e Moído Gourmet Sul de Minas 3 Corações 250g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-gourmet-sul-de-minas-3-coracoes-250g/p
+   ID do produto: 2787 | SKU: 2794 | EAN: 7896045101665
+   Marca: 3 Corações | Unidade: un | Disponível: Sim
+   Tipo de oferta: -24% (tag: oferta)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 32,98
+   Preço de catálogo: R$ 32,98
+   Desconto: 24.2% | Economia: R$ 7,99
+
+25. Café Torrado e Moído Premium Bravo 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-premium-bravo-500g/p
+   ID do produto: 16633 | SKU: 16648 | EAN: 7898204020633
+   Marca: Bravo Café | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 26,99
+   Preço anterior: R$ 40,49
+   Preço de catálogo: R$ 40,49
+   Desconto: 33.3% | Economia: R$ 13,50
+
+26. Café Torrado e Moído Tradicional 3 Corações 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-tradicional-3-coracoes-500g/p
+   ID do produto: 2810 | SKU: 2817 | EAN: 7896005800010
+   Marca: 3 Corações | Unidade: un | Disponível: Sim
+   Tipo de oferta: -30% (tag: oferta)
+   Preço promocional: R$ 25,99
+   Preço anterior: R$ 36,98
+   Preço de catálogo: R$ 36,98
+   Desconto: 29.7% | Economia: R$ 10,99
+
+27. Café Torrado e Moído Tradicional a Vácuo Melitta 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-tradicional-a-vacuo-melitta-500g/p
+   ID do produto: 2804 | SKU: 2811 | EAN: 7891021006125
+   Marca: Melitta | Unidade: un | Disponível: Sim
+   Tipo de oferta: -20% (tag: oferta)
+   Preço promocional: R$ 31,99
+   Preço anterior: R$ 39,98
+   Preço de catálogo: R$ 39,98
+   Desconto: 20.0% | Economia: R$ 7,99
+
+28. Café Torrado e Moído Tradicional a Vácuo Pilão 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-tradicional-a-vacuo-pilao-500g/p
+   ID do produto: 2806 | SKU: 2813 | EAN: 7896089011357
+   Marca: Pilão | Unidade: un | Disponível: Sim
+   Tipo de oferta: -32% (tag: oferta)
+   Preço promocional: R$ 26,99
+   Preço anterior: R$ 39,98
+   Preço de catálogo: R$ 39,98
+   Desconto: 32.5% | Economia: R$ 12,99
+
+29. Café Torrado e Moído Tradicional Melitta 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-tradicional-melitta-500g/p
+   ID do produto: 2814 | SKU: 2821 | EAN: 7891021005043
+   Marca: Melitta | Unidade: un | Disponível: Sim
+   Tipo de oferta: -20% (tag: oferta)
+   Preço promocional: R$ 31,99
+   Preço anterior: R$ 39,98
+   Preço de catálogo: R$ 39,98
+   Desconto: 20.0% | Economia: R$ 7,99
+
+30. Café Torrado e Moído Tradicional Pilão 500g
+   Link: https://www.mambo.com.br/cafe-torrado-e-moido-tradicional-pilao-500g/p
+   ID do produto: 2816 | SKU: 2823 | EAN: 7896089012019
+   Marca: Pilão | Unidade: un | Disponível: Sim
+   Tipo de oferta: -32% (tag: oferta)
+   Preço promocional: R$ 26,99
+   Preço anterior: R$ 39,98
+   Preço de catálogo: R$ 39,98
+   Desconto: 32.5% | Economia: R$ 12,99
+
+31. Caixa de Bombom Variedades Favoritos Lacta 250,6g
+   Link: https://www.mambo.com.br/caixa-de-bombom-variedades-favoritos-lacta-2506g/p
+   ID do produto: 2826 | SKU: 2833 | EAN: 7622210596413
+   Marca: Lacta | Unidade: un | Disponível: Sim
+   Tipo de oferta: -39% (tag: oferta)
+   Preço promocional: R$ 13,99
+   Preço anterior: R$ 22,98
+   Preço de catálogo: R$ 22,98
+   Desconto: 39.1% | Economia: R$ 8,99
+
+32. Cerveja Pure Gold Sem Glúten Stella Artois Lata 350ml
+   Link: https://www.mambo.com.br/cerveja-pure-gold-sem-gluten-stella-artois-lata-350ml/p
+   ID do produto: 22185 | SKU: 22206 | EAN: 7891991306485
+   Marca: Stella Artois | Unidade: un | Disponível: Sim
+   Tipo de oferta: -20% (tag: oferta)
+   Preço promocional: R$ 5,19
+   Preço anterior: R$ 6,49
+   Preço de catálogo: R$ 6,49
+   Desconto: 20.0% | Economia: R$ 1,30
+
+33. Cerveja Puro Malte Spaten Lata  350ml
+   Link: https://www.mambo.com.br/cerveja-puro-malte-munich-sleek-spaten-350ml/p
+   ID do produto: 3531 | SKU: 3539 | EAN: 7891991297424
+   Marca: Spaten | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 3,99
+   Preço anterior: R$ 5,19
+   Preço de catálogo: R$ 5,19
+   Desconto: 23.1% | Economia: R$ 1,20
+
+34. Chocolate Bis ao Leite Original Lacta 100,8g
+   Link: https://www.mambo.com.br/chocolate-bis-ao-leite-original-lacta-100-8g/p
+   ID do produto: 21761 | SKU: 21784 | EAN: 7622210575975
+   Marca: Lacta | Unidade: un | Disponível: Sim
+   Tipo de oferta: -29% (tag: oferta)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 9,89
+   Preço de catálogo: R$ 9,89
+   Desconto: 29.3% | Economia: R$ 2,90
+
+35. Chocolate em Pó Solúvel Dois Frades Nestlé 200g
+   Link: https://www.mambo.com.br/chocolate-em-po-soluvel-dois-frades-nestle-200g/p
+   ID do produto: 3913 | SKU: 3922 | EAN: 7891000451304
+   Marca: Nestlé | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 25,99
+   Preço anterior: R$ 38,98
+   Preço de catálogo: R$ 38,98
+   Desconto: 33.3% | Economia: R$ 12,99
+
+36. Creme de Avelã Nutella 350g
+   Link: https://www.mambo.com.br/creme-de-avela-nutella-350g/p
+   ID do produto: 4884 | SKU: 4894 | EAN: 7898024394181
+   Marca: Nutella | Unidade: un | Disponível: Sim
+   Tipo de oferta: -20% (tag: oferta)
+   Preço promocional: R$ 29,99
+   Preço anterior: R$ 37,49
+   Preço de catálogo: R$ 37,49
+   Desconto: 20.0% | Economia: R$ 7,50
+
+37. Farinha de Trigo Renata 1kg
+   Link: https://www.mambo.com.br/farinha-de-trigo-renata-1kg/p
+   ID do produto: 6007 | SKU: 6017 | EAN: 7896022200961
+   Marca: Renata | Unidade: un | Disponível: Sim
+   Tipo de oferta: -29% (tag: oferta)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 9,89
+   Preço de catálogo: R$ 9,89
+   Desconto: 29.3% | Economia: R$ 2,90
+
+38. Filme PVC Wyda  28cmx30m
+   Link: https://www.mambo.com.br/filme-pvc-wyda--28cmx30m/p
+   ID do produto: 6140 | SKU: 6150 | EAN: 7898930672335
+   Marca: Wyda | Unidade: un | Disponível: Sim
+   Tipo de oferta: -31% (tag: oferta)
+   Preço promocional: R$ 10,98
+   Preço anterior: R$ 15,98
+   Preço de catálogo: R$ 15,98
+   Desconto: 31.3% | Economia: R$ 5,00
+
+39. Filtro de Papel 103 Melitta com 30 unidades
+   Link: https://www.mambo.com.br/filtro-de-papel-103-melitta-com-30-unidades/p
+   ID do produto: 6145 | SKU: 6155 | EAN: 7891021001946
+   Marca: Melitta | Unidade: un | Disponível: Sim
+   Tipo de oferta: -36% (tag: oferta)
+   Preço promocional: R$ 3,99
+   Preço anterior: R$ 6,19
+   Preço de catálogo: R$ 6,19
+   Desconto: 35.5% | Economia: R$ 2,20
+
+40. Filé Peito Frango Congelado Korin 700g
+   Link: https://www.mambo.com.br/file-peito-frango-congelado-korin-700g/p
+   ID do produto: 23133 | SKU: 23155 | EAN: 7893753000297
+   Marca: Korin | Unidade: un | Disponível: Sim
+   Tipo de oferta: -26% (tag: oferta)
+   Preço promocional: R$ 34,98
+   Preço anterior: R$ 46,98
+   Preço de catálogo: R$ 46,98
+   Desconto: 25.5% | Economia: R$ 12,00
+
+41. Granola Tradicional Sem Açúcar Mãe Terra 800g
+   Link: https://www.mambo.com.br/granola-tradicional-sem-acucar-mae-terra-800g/p
+   ID do produto: 16684 | SKU: 16699 | EAN: 7891150087606
+   Marca: Mãe Terra | Unidade: un | Disponível: Sim
+   Tipo de oferta: -37% (tag: oferta)
+   Preço promocional: R$ 27,98
+   Preço anterior: R$ 44,49
+   Preço de catálogo: R$ 44,49
+   Desconto: 37.1% | Economia: R$ 16,51
+
+42. Guardanapo Kitchen 22,7cm x 22,8cm com 50 unidades
+   Link: https://www.mambo.com.br/guardanapo-kitchen-227cm-x-228cm-com-50-unidades/p
+   ID do produto: 6900 | SKU: 6911 | EAN: 7896061934285
+   Marca: Kitchen | Unidade: un | Disponível: Sim
+   Tipo de oferta: -24% (tag: oferta)
+   Preço promocional: R$ 2,49
+   Preço anterior: R$ 3,29
+   Preço de catálogo: R$ 3,29
+   Desconto: 24.3% | Economia: R$ 0,80
+
+43. Iogurte Desnatado de Morango Sem Lactose Pense Zero Batavo 1,15Kg
+   Link: https://www.mambo.com.br/iogurte-desnatado-de-morango-sem-lactose-pense-zero-batavo-1-15kg/p
+   ID do produto: 7129 | SKU: 7140 | EAN: 7891097103643
+   Marca: Batavo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -14% (tag: oferta)
+   Preço promocional: R$ 18,98
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: 13.6% | Economia: R$ 3,00
+
+44. Iogurte Grego Desnatado Zero Sem Lactose Vigor 90g
+   Link: https://www.mambo.com.br/iogurte-grego-desnatado-zero-sem-lactose-vigor-90g/p
+   ID do produto: 16467 | SKU: 16482 | EAN: 7896625211166
+   Marca: Vigor | Unidade: un | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 3,69
+   Preço anterior: R$ 3,69
+   Preço de catálogo: R$ 3,69
+   Desconto: N/D | Economia: N/D
+
+45. Iogurte Grego Tradicional Vigor 90g
+   Link: https://www.mambo.com.br/iogurte-grego-tradicional-vigor-90g/p
+   ID do produto: 16473 | SKU: 16488 | EAN: 7896625211142
+   Marca: Vigor | Unidade: un | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 3,69
+   Preço anterior: R$ 3,69
+   Preço de catálogo: R$ 3,69
+   Desconto: N/D | Economia: N/D
+
+46. Iogurte Natural 17g de Proteínas Sem Lactose YoPro 160g
+   Link: https://www.mambo.com.br/iogurte-natural-17g-de-proteinas-sem-lactose-yopro-160g/p
+   ID do produto: 7054 | SKU: 7065 | EAN: 7891025116943
+   Marca: Danone | Unidade: un | Disponível: Sim
+   Tipo de oferta: -17% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 11,98
+   Preço de catálogo: R$ 11,98
+   Desconto: 16.7% | Economia: R$ 2,00
+
+47. Iogurte Natural Whey de Morango 21g de Proteínas Verde Campo 250g
+   Link: https://www.mambo.com.br/iogurte-natural-whey-de-morango-21g-de-proteinas-verde-campo-250g/p
+   ID do produto: 7401 | SKU: 7412 | EAN: 7898205924916
+   Marca: Verde Campo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 11,98
+   Preço anterior: R$ 15,49
+   Preço de catálogo: R$ 15,49
+   Desconto: 22.7% | Economia: R$ 3,51
+
+48. Ketchup Tradicional Heinz 397g
+   Link: https://www.mambo.com.br/ketchup-tradicional-heinz-397g/p
+   ID do produto: 7530 | SKU: 7541 | EAN: 7896102503708
+   Marca: Heinz | Unidade: un | Disponível: Sim
+   Tipo de oferta: -19% (tag: oferta)
+   Preço promocional: R$ 13,29
+   Preço anterior: R$ 16,49
+   Preço de catálogo: R$ 16,49
+   Desconto: 19.4% | Economia: R$ 3,20
+
+49. Kit Creme Dental Original Mint Total Prevenção Ativa Colgate 90g com 3 Unidades
+   Link: https://www.mambo.com.br/kit-creme-dental-original-mint-total-prevencao-ativa-colgate-90g-com-3-unidades/p
+   ID do produto: 28857 | SKU: 285045 | EAN: 7509546702827
+   Marca: Colgate | Unidade: un | Disponível: Sim
+   Tipo de oferta: -22% (tag: oferta)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 31,98
+   Preço de catálogo: R$ 31,98
+   Desconto: 21.9% | Economia: R$ 6,99
+
+50. Manteiga com Sal Momento Mambo 200g
+   Link: https://www.mambo.com.br/manteiga-com-sal-momento-mambo-200g/p
+   ID do produto: 22477 | SKU: 22499 | EAN: 7898702151501
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 12,98
+   Preço de catálogo: R$ 12,98
+   Desconto: 23.1% | Economia: R$ 3,00
+
+51. Margarina com Sal Qualy 500g
+   Link: https://www.mambo.com.br/margarina-com-sal-qualy-500g/p
+   ID do produto: 9109 | SKU: 9121 | EAN: 7893000394209
+   Marca: Qualy | Unidade: un | Disponível: Sim
+   Tipo de oferta: -14% (tag: oferta)
+   Preço promocional: R$ 9,49
+   Preço anterior: R$ 10,98
+   Preço de catálogo: R$ 10,98
+   Desconto: 13.6% | Economia: R$ 1,49
+
+52. Mel Orgânico Momento Mambo 300g
+   Link: https://www.mambo.com.br/mel-organico-momento-mambo-300g/p
+   ID do produto: 22364 | SKU: 22385 | EAN: 7898702152508
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -31% (tag: oferta)
+   Preço promocional: R$ 20,98
+   Preço anterior: R$ 30,49
+   Preço de catálogo: R$ 30,49
+   Desconto: 31.2% | Economia: R$ 9,51
+
+53. Milho Verde em Conserva Sélection Spéciale Bonduelle Lata 200g
+   Link: https://www.mambo.com.br/milho-verde-em-conserva-selection-speciale-bonduelle-lata-200g/p
+   ID do produto: 29756 | SKU: 285944 | EAN: 3083681192452
+   Marca: Bonduelle | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 8,49
+   Preço anterior: R$ 10,98
+   Preço de catálogo: R$ 10,98
+   Desconto: 22.7% | Economia: R$ 2,49
+
+54. Morangos Congelados Momento Mambo 1,02kg
+   Link: https://www.mambo.com.br/morangos-congelados-momento-mambo-1-02kg/p
+   ID do produto: 19781 | SKU: 19804 | EAN: 7898702154687
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -35% (tag: oferta)
+   Preço promocional: R$ 21,98
+   Preço anterior: R$ 33,98
+   Preço de catálogo: R$ 33,98
+   Desconto: 35.3% | Economia: R$ 12,00
+
+55. Palmito Pupunha Inteiro Bonduelle 270g
+   Link: https://www.mambo.com.br/palmito-pupunha-inteiro-bonduelle-270g/p
+   ID do produto: 10382 | SKU: 10395 | EAN: 7898167466004
+   Marca: Bonduelle | Unidade: un | Disponível: Sim
+   Tipo de oferta: -21% (tag: oferta)
+   Preço promocional: R$ 29,98
+   Preço anterior: R$ 37,98
+   Preço de catálogo: R$ 37,98
+   Desconto: 21.1% | Economia: R$ 8,00
+
+56. Papel Alumínio Wyda 30cmx7,5m
+   Link: https://www.mambo.com.br/papel-aluminio-wyda-30cmx75m/p
+   ID do produto: 10470 | SKU: 10483 | EAN: 7898930672441
+   Marca: Wyda | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 7,49
+   Preço anterior: R$ 9,79
+   Preço de catálogo: R$ 9,79
+   Desconto: 23.5% | Economia: R$ 2,30
+
+57. Papel Higiênico Folha Quádrupla 20m Neve com 12 Rolos
+   Link: https://www.mambo.com.br/papel-higienico-folha-quadrupla-20m-neve-com-12-rolos/p
+   ID do produto: 26192 | SKU: 282378 | EAN: 7891172523724
+   Marca: Neve | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 29,90
+   Preço anterior: R$ 38,98
+   Preço de catálogo: R$ 38,98
+   Desconto: 23.3% | Economia: R$ 9,08
+
+58. Presunto Cru Fatiado Figueiras 100g
+   Link: https://www.mambo.com.br/presunto-cru-fatiado-figueiras-100g/p
+   ID do produto: 27444 | SKU: 283632 | EAN: 7898902568680
+   Marca: Figueiras | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 22,98
+   Preço anterior: R$ 34,49
+   Preço de catálogo: R$ 34,49
+   Desconto: 33.4% | Economia: R$ 11,51
+
+59. Presunto Cru Italiano Fatiado Vito Balducci 100g
+   Link: https://www.mambo.com.br/presunto-cru-italiano-fatiado-vito-balducci-100g/p
+   ID do produto: 11200 | SKU: 11213 | EAN: 7898902568109
+   Marca: Vito Balducci | Unidade: un | Disponível: Sim
+   Tipo de oferta: -34% (tag: oferta)
+   Preço promocional: R$ 24,98
+   Preço anterior: R$ 37,98
+   Preço de catálogo: R$ 37,98
+   Desconto: 34.2% | Economia: R$ 13,00
+
+60. Pão de Queijo com Requeijão Momento Mambo 400g
+   Link: https://www.mambo.com.br/pao-de-queijo-com-requeijao-momento-mambo-400g/p
+   ID do produto: 22496 | SKU: 22518 | EAN: 7898702152584
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: 22.7% | Economia: R$ 5,00
+
+61. Pão de Queijo Congelado Coquetel Forno de Minas 820g
+   Link: https://www.mambo.com.br/pao-de-queijo-congelado-coquetel-forno-de-minas-820g/p
+   ID do produto: 20495 | SKU: 20518 | EAN: 7896074606742
+   Marca: Forno de Minas | Unidade: un | Disponível: Sim
+   Tipo de oferta: -27% (tag: oferta)
+   Preço promocional: R$ 39,98
+   Preço anterior: R$ 54,49
+   Preço de catálogo: R$ 54,49
+   Desconto: 26.6% | Economia: R$ 14,51
+
+62. Pão de Queijo Congelado Momento Mambo 400g
+   Link: https://www.mambo.com.br/pao-de-queijo-congelado-momento-mambo-400g/p
+   ID do produto: 16600 | SKU: 16615 | EAN: 7898702150283
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: 22.7% | Economia: R$ 5,00
+
+63. Pão de Queijo Congelado Tradicional Forno de Minas 820g
+   Link: https://www.mambo.com.br/pao-de-queijo-congelado-tradicional-forno-de-minas-820g/p
+   ID do produto: 20494 | SKU: 20517 | EAN: 7896074606735
+   Marca: Forno de Minas | Unidade: un | Disponível: Sim
+   Tipo de oferta: -27% (tag: oferta)
+   Preço promocional: R$ 39,98
+   Preço anterior: R$ 54,49
+   Preço de catálogo: R$ 54,49
+   Desconto: 26.6% | Economia: R$ 14,51
+
+64. Pão de Queijo Lanche Congelado Momento Mambo 400g
+   Link: https://www.mambo.com.br/pao-de-queijo-lanche-congelado-momento-mambo-400g/p
+   ID do produto: 30411 | SKU: 286599 | EAN: 7898702155356
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -15% (tag: oferta)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 19,98
+   Preço de catálogo: R$ 19,98
+   Desconto: 15.0% | Economia: R$ 3,00
+
+65. Pão de Queijo Pipoquinha Momento Mambo 200g
+   Link: https://www.mambo.com.br/pao-de-queijo-pipoquinha-momento-mambo-200g/p
+   ID do produto: 25617 | SKU: 281803 | EAN: 7898702153413
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -22% (tag: oferta)
+   Preço promocional: R$ 17,98
+   Preço anterior: R$ 22,98
+   Preço de catálogo: R$ 22,98
+   Desconto: 21.8% | Economia: R$ 5,00
+
+66. Pão de Queijo Sem Lactose Momento Mambo 400g
+   Link: https://www.mambo.com.br/pao-de-queijo-sem-lactose-momento-mambo-400g/p
+   ID do produto: 20640 | SKU: 20661 | EAN: 7898702151976
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 16,98
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: 22.7% | Economia: R$ 5,00
+
+67. Queijo Burrata de Bufala Momento Mambo 200g
+   Link: https://www.mambo.com.br/queijo-burrata-de-bufala-momento-mambo-200g/p
+   ID do produto: 16818 | SKU: 16833 | EAN: 7898702150559
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -22% (tag: oferta)
+   Preço promocional: R$ 19,90
+   Preço anterior: R$ 25,49
+   Preço de catálogo: R$ 25,49
+   Desconto: 21.9% | Economia: R$ 5,59
+
+68. Queijo Minas Frescal Momento Mambo Kg
+   Link: https://www.mambo.com.br/queijo-minas-frescal-momento-mambo-kg/p
+   ID do produto: 27510 | SKU: 283698 | EAN: 2009523
+   Marca: Momento Mambo | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -10% (tag: oferta)
+   Preço promocional: R$ 44,90
+   Preço anterior: R$ 49,98
+   Preço de catálogo: R$ 49,98
+   Desconto: 10.2% | Economia: R$ 5,08
+
+69. Queijo Minas Padrão de Búfala Fracionado Bom Destino Kg
+   Link: https://www.mambo.com.br/queijo-minas-padrao-de-bufala-fracionado-bom-destino-kg/p
+   ID do produto: 25893 | SKU: 282079 | EAN: 2009039
+   Marca: Bom Destino | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -18% (tag: oferta)
+   Preço promocional: R$ 69,90
+   Preço anterior: R$ 84,98
+   Preço de catálogo: R$ 84,98
+   Desconto: 17.7% | Economia: R$ 15,08
+
+70. Queijo Minas Padrão LacFree Sem Lactose Verde Campo Kg
+   Link: https://www.mambo.com.br/queijo-minas-padrao-lacfree-sem-lactose-verde-campo-kg/p
+   ID do produto: 11888 | SKU: 11901 | EAN: 2000797
+   Marca: Verde Campo | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -10% (tag: oferta)
+   Preço promocional: R$ 89,90
+   Preço anterior: R$ 99,98
+   Preço de catálogo: R$ 99,98
+   Desconto: 10.1% | Economia: R$ 10,08
+
+71. Queijo Minas Padrão President kg
+   Link: https://www.mambo.com.br/queijo-minas-padrao-president-kg/p
+   ID do produto: 11892 | SKU: 11905 | EAN: 2004107
+   Marca: Président | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -11% (tag: oferta)
+   Preço promocional: R$ 79,90
+   Preço anterior: R$ 89,98
+   Preço de catálogo: R$ 89,98
+   Desconto: 11.2% | Economia: R$ 10,08
+
+72. Queijo Mozzarella Búfala Bola Cereja Momento Mambo 160g
+   Link: https://www.mambo.com.br/queijo-mozzarella-bufala-bola-cereja-momento-mambo-160g/p
+   ID do produto: 20580 | SKU: 20601 | EAN: 7898702151525
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -51% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 20,49
+   Preço de catálogo: R$ 20,49
+   Desconto: 51.3% | Economia: R$ 10,51
+
+73. Queijo Mussarela Fatiado Polenghi Kg
+   Link: https://www.mambo.com.br/queijo-mussarela-fatiado-polenghi-kg/p
+   ID do produto: 19336 | SKU: 19354 | EAN: 2008354
+   Marca: Polenghi | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -19% (tag: oferta)
+   Preço promocional: R$ 49,90
+   Preço anterior: R$ 61,98
+   Preço de catálogo: R$ 61,98
+   Desconto: 19.5% | Economia: R$ 12,08
+
+74. Queijo Parmesão Fracionado La Sereníssima kg
+   Link: https://www.mambo.com.br/queijo-parmesao-fracionado-la-serenissima-kg/p
+   ID do produto: 11976 | SKU: 11989 | EAN: 2006089
+   Marca: La Serenissima | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -9% (tag: oferta)
+   Preço promocional: R$ 99,90
+   Preço anterior: R$ 109,98
+   Preço de catálogo: R$ 109,98
+   Desconto: 9.2% | Economia: R$ 10,08
+
+75. Queijo Parmesão Ralado Vigor 100g
+   Link: https://www.mambo.com.br/queijo-parmesao-ralado-vigor-100g/p
+   ID do produto: 11990 | SKU: 12003 | EAN: 7891999970107
+   Marca: Vigor | Unidade: un | Disponível: Sim
+   Tipo de oferta: -41% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 16,98
+   Preço de catálogo: R$ 16,98
+   Desconto: 41.2% | Economia: R$ 7,00
+
+76. Queijo Prato Fatiado Polenghi Kg
+   Link: https://www.mambo.com.br/queijo-prato-fatiado-polenghi-kg/p
+   ID do produto: 19335 | SKU: 19353 | EAN: 2008352
+   Marca: Polenghi | Unidade: kg | Disponível: Sim
+   Tipo de oferta: -19% (tag: oferta)
+   Preço promocional: R$ 49,90
+   Preço anterior: R$ 61,98
+   Preço de catálogo: R$ 61,98
+   Desconto: 19.5% | Economia: R$ 12,08
+
+77. Queijo Processado Light Polenguinho 136g com 8 unidades
+   Link: https://www.mambo.com.br/queijo-processado-light-polenguinho-136g-com-8-unidades/p
+   ID do produto: 12029 | SKU: 12042 | EAN: 7891143017399
+   Marca: Polenghi | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 9,98
+   Preço anterior: R$ 14,98
+   Preço de catálogo: R$ 14,98
+   Desconto: 33.4% | Economia: R$ 5,00
+
+78. Queijo Tipo Cottage LacFree Sem Lactose Verde Campo 400g
+   Link: https://www.mambo.com.br/queijo-tipo-cottage-lacfree-sem-lactose-verde-campo-400g/p
+   ID do produto: 11737 | SKU: 11750 | EAN: 7898205924053
+   Marca: Verde Campo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -22% (tag: oferta)
+   Preço promocional: R$ 24,98
+   Preço anterior: R$ 31,98
+   Preço de catálogo: R$ 31,98
+   Desconto: 21.9% | Economia: R$ 7,00
+
+79. Queijo Tipo Cottage Tradicional Verde Campo 400g
+   Link: https://www.mambo.com.br/queijo-tipo-cottage-tradicional-verde-campo-400g/p
+   ID do produto: 21045 | SKU: 21069 | EAN: 7898205924374
+   Marca: Verde Campo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -24% (tag: oferta)
+   Preço promocional: R$ 20,98
+   Preço anterior: R$ 27,49
+   Preço de catálogo: R$ 27,49
+   Desconto: 23.7% | Economia: R$ 6,51
+
+80. Queijo Parmesão Cilindro Faixa Azul 195g
+   Link: https://www.mambo.com.br/queijoparmesao-cilindro-faixa-azul195g/p
+   ID do produto: 12104 | SKU: 12118 | EAN: 7891999014092
+   Marca: Faixa Azul | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 27,98
+   Preço anterior: R$ 41,49
+   Preço de catálogo: R$ 41,49
+   Desconto: 32.6% | Economia: R$ 13,51
+
+81. Refrigerante Sem Açúcar Guaraná Antarctica Lata 350ml
+   Link: https://www.mambo.com.br/refrigerante-sem-acucar-guarana-antarctica-lata-350ml/p
+   ID do produto: 12518 | SKU: 12532 | EAN: 7891991000727
+   Marca: Guaraná Antarctica | Unidade: un | Disponível: Sim
+   Tipo de oferta: -18% (tag: oferta)
+   Preço promocional: R$ 3,09
+   Preço anterior: R$ 3,79
+   Preço de catálogo: R$ 3,79
+   Desconto: 18.5% | Economia: R$ 0,70
+
+82. Refrigerante Sem Açúcar Guaraná Antarctica Pet 1,5L
+   Link: https://www.mambo.com.br/refrigerante-sem-acucar-guarana-antarctica-pet-15l/p
+   ID do produto: 12515 | SKU: 12529 | EAN: 7891991008785
+   Marca: Guaraná Antarctica | Unidade: un | Disponível: Sim
+   Tipo de oferta: -20% (tag: oferta)
+   Preço promocional: R$ 6,79
+   Preço anterior: R$ 8,49
+   Preço de catálogo: R$ 8,49
+   Desconto: 20.0% | Economia: R$ 1,70
+
+83. Requeijão Tradicional Catupiry Sachê 250g
+   Link: https://www.mambo.com.br/requeijao-tradicional-catupiry-sache-250g/p
+   ID do produto: 12674 | SKU: 12688 | EAN: 7896353300033
+   Marca: Catupiry | Unidade: un | Disponível: Sim
+   Tipo de oferta: -29% (tag: oferta)
+   Preço promocional: R$ 14,98
+   Preço anterior: R$ 20,98
+   Preço de catálogo: R$ 20,98
+   Desconto: 28.6% | Economia: R$ 6,00
+
+84. Saco de Lixo 50 Litros Mega Econômico Embalixo com 80+20 Grátis
+   Link: https://www.mambo.com.br/saco-de-lixo-50-litros-mega-economico-embalixo-com-8020-gratis/p
+   ID do produto: 13038 | SKU: 13052 | EAN: 7898226514714
+   Marca: Embalixo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 29,58
+   Preço anterior: R$ 43,98
+   Preço de catálogo: R$ 43,98
+   Desconto: 32.7% | Economia: R$ 14,40
+
+85. Saco de Lixo para Banheiro Mega Econômico Embalixo com 120+30 Grátis
+   Link: https://www.mambo.com.br/saco-de-lixo-para-banheiro-mega-economico-embalixo-com-12030-gratis/p
+   ID do produto: 13053 | SKU: 13067 | EAN: 7898226514943
+   Marca: Embalixo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 19,98
+   Preço anterior: R$ 29,98
+   Preço de catálogo: R$ 29,98
+   Desconto: 33.4% | Economia: R$ 10,00
+
+86. Saco de Lixo Pia e Banheiro Neutra Embalixo com 100 unidades
+   Link: https://www.mambo.com.br/saco-de-lixo-pia-e-banheiro-neutra-embalixo-com-100-unidades/p
+   ID do produto: 13056 | SKU: 13070 | EAN: 7898226514141
+   Marca: Embalixo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -32% (tag: oferta)
+   Preço promocional: R$ 23,18
+   Preço anterior: R$ 33,98
+   Preço de catálogo: R$ 33,98
+   Desconto: 31.8% | Economia: R$ 10,80
+
+87. Saco de Lixo Reforçado Preto Emba Lixo 50L com 30 Unidades
+   Link: https://www.mambo.com.br/saco-de-lixo-50-litros-reforcado-preto-wecycle-30-unidades/p
+   ID do produto: 13041 | SKU: 13055 | EAN: 7898226515186
+   Marca: Embalixo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -34% (tag: oferta)
+   Preço promocional: R$ 19,18
+   Preço anterior: R$ 28,98
+   Preço de catálogo: R$ 28,98
+   Desconto: 33.8% | Economia: R$ 9,80
+
+88. Suco de Laranja e Maçã Natural One 1,3L
+   Link: https://www.mambo.com.br/suco-de-laranja-e-maca-natural-one-13l/p
+   ID do produto: 28227 | SKU: 284415 | EAN: 7899916918720
+   Marca: Natural One | Unidade: un | Disponível: Sim
+   Tipo de oferta: -44% (tag: oferta)
+   Preço promocional: R$ 14,98
+   Preço anterior: R$ 26,98
+   Preço de catálogo: R$ 26,98
+   Desconto: 44.5% | Economia: R$ 12,00
+
+89. Suco de Laranja Integral Refrigerado Momento Mambo 3L
+   Link: https://www.mambo.com.br/suco-de-laranja-integral-refrigerado-momento-mambo-3l/p
+   ID do produto: 24738 | SKU: 24766 | EAN: 7898702153185
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -22% (tag: oferta)
+   Preço promocional: R$ 34,99
+   Preço anterior: R$ 44,98
+   Preço de catálogo: R$ 44,98
+   Desconto: 22.2% | Economia: R$ 9,99
+
+90. Suco de Laranja Integral Refrigerado Natural One 1,3L
+   Link: https://www.mambo.com.br/suco-de-laranja-integral-refrigerado-natural-one-13l/p
+   ID do produto: 28230 | SKU: 284418 | EAN: 7899916918768
+   Marca: Natural One | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 16,99
+   Preço anterior: R$ 21,98
+   Preço de catálogo: R$ 21,98
+   Desconto: 22.7% | Economia: R$ 4,99
+
+91. Suco de Maçã Integral Sem Adição de Açúcar Momento Mambo 1,35L
+   Link: https://www.mambo.com.br/suco-de-maca-integral-sem-adicao-de-acucar-momento-mambo-1-35l/p
+   ID do produto: 28406 | SKU: 284594 | EAN: 7898702154281
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -28% (tag: oferta)
+   Preço promocional: R$ 17,99
+   Preço anterior: R$ 24,98
+   Preço de catálogo: R$ 24,98
+   Desconto: 28.0% | Economia: R$ 6,99
+
+92. Suco de Uva Tinto Integral Momento Mambo 1,35L
+   Link: https://www.mambo.com.br/suco-de-uva-tinto-integral-momento-mambo-1-35l/p
+   ID do produto: 27366 | SKU: 283554 | EAN: 7898702153789
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -23% (tag: oferta)
+   Preço promocional: R$ 17,99
+   Preço anterior: R$ 23,49
+   Preço de catálogo: R$ 23,49
+   Desconto: 23.4% | Economia: R$ 5,50
+
+93. Suco de Uva, Pera e Maçã Ambiente The Natural One 1,3L
+   Link: https://www.mambo.com.br/suco-de-uva--pera-e-maca-ambiente-the-natural-one-1-3l/p
+   ID do produto: 28229 | SKU: 284417 | EAN: 7899916918645
+   Marca: Natural One | Unidade: un | Disponível: Sim
+   Tipo de oferta: -44% (tag: oferta)
+   Preço promocional: R$ 14,98
+   Preço anterior: R$ 26,98
+   Preço de catálogo: R$ 26,98
+   Desconto: 44.5% | Economia: R$ 12,00
+
+94. Suco Integral Uva Branca Momento Mambo 1,35L
+   Link: https://www.mambo.com.br/suco-integral-uva-branca-momento-mambo-135l/p
+   ID do produto: 29677 | SKU: 285865 | EAN: 7898702154960
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -25% (tag: oferta)
+   Preço promocional: R$ 17,99
+   Preço anterior: R$ 23,98
+   Preço de catálogo: R$ 23,98
+   Desconto: 25.0% | Economia: R$ 5,99
+
+95. Suplemento Alimentar em Pó Chocolate Língua de Gato Supercoffee Caffeine Army 220g
+   Link: https://www.mambo.com.br/suplemento-alimentar-em-po-chocolate-lingua-de-gato-supercoffee-caffeine-army-220g/p
+   ID do produto: 25835 | SKU: 282021 | EAN: 0070341564530
+   Marca: Caffeine Army | Unidade: un | Disponível: Sim
+   Tipo de oferta: -21% (tag: oferta)
+   Preço promocional: R$ 125,98
+   Preço anterior: R$ 158,98
+   Preço de catálogo: R$ 158,98
+   Desconto: 20.8% | Economia: R$ 33,00
+
+96. Torta de Frango com Requeijão Momento Mambo 550g
+   Link: https://www.mambo.com.br/torta-de-frango-com-requeijao-momento-mambo-550g/p
+   ID do produto: 21167 | SKU: 21191 | EAN: 0070341982273
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -24% (tag: oferta)
+   Preço promocional: R$ 33,98
+   Preço anterior: R$ 44,49
+   Preço de catálogo: R$ 44,49
+   Desconto: 23.6% | Economia: R$ 10,51
+
+97. Waffle Congelado Forno de Minas 280g
+   Link: https://www.mambo.com.br/waffle-congelado-forno-de-minas-280g/p
+   ID do produto: 16741 | SKU: 16756 | EAN: 7896074606513
+   Marca: Forno de Minas | Unidade: un | Disponível: Sim
+   Tipo de oferta: -27% (tag: oferta)
+   Preço promocional: R$ 18,98
+   Preço anterior: R$ 25,98
+   Preço de catálogo: R$ 25,98
+   Desconto: 26.9% | Economia: R$ 7,00
+
+98. Água De Coco Momento Mambo 1L
+   Link: https://www.mambo.com.br/agua-de-coco-momento-mambo-1l/p
+   ID do produto: 24310 | SKU: 24338 | EAN: 7898702153192
+   Marca: Momento Mambo | Unidade: un | Disponível: Sim
+   Tipo de oferta: -33% (tag: oferta)
+   Preço promocional: R$ 9,99
+   Preço anterior: R$ 14,98
+   Preço de catálogo: R$ 14,98
+   Desconto: 33.3% | Economia: R$ 4,99
+
+99. Óleo de Girassol Liza Especiais 900ml
+   Link: https://www.mambo.com.br/oleo-de-girassol-liza-especiais-900ml/p
+   ID do produto: 16267 | SKU: 16282 | EAN: 7896036090602
+   Marca: Liza | Unidade: un | Disponível: Sim
+   Tipo de oferta: -20% (tag: oferta)
+   Preço promocional: R$ 15,99
+   Preço anterior: R$ 19,98
+   Preço de catálogo: R$ 19,98
+   Desconto: 20.0% | Economia: R$ 3,99
+
+100. Óleo de Milho Liza Especiais 900ml
+   Link: https://www.mambo.com.br/oleo-de-milho-liza-especiais-900ml/p
+   ID do produto: 16270 | SKU: 16285 | EAN: 7896036090619
+   Marca: Liza | Unidade: un | Disponível: Sim
+   Tipo de oferta: -16% (tag: oferta)
+   Preço promocional: R$ 15,99
+   Preço anterior: R$ 18,98
+   Preço de catálogo: R$ 18,98
+   Desconto: 15.8% | Economia: R$ 2,99

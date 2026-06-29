@@ -1,5 +1,19 @@
-.venv/
+# Ignore everything by default
+*
+
+# Keep git metadata
+!.gitignore
+!.gitattributes
+
+# Track data and output only
+!data/
+!data/**
+!output/
+!output/**
+
+# Exclude operational logs from sync
+output/logs/
+
+# Local Python artifacts (if present inside tracked paths)
 __pycache__/
 *.pyc
-data/
-output/

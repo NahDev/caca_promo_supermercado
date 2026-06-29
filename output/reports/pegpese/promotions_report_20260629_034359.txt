@@ -1,0 +1,49 @@
+RELATÓRIO DE PROMOÇÕES - PEG PESE SUPERMERCADOS
+======================================================================
+Supermercado: Peg Pese Supermercados (pegpese)
+Plataforma: vipcommerce
+Gerado em: 29/06/2026 00:43:59
+Lote de coleta: 29/06/2026 00:43:35
+Fonte: https://www.pegpese.com.br/ofertas
+
+RESUMO GERAL
+----------------------------------------------------------------------
+Total de promoções: 1
+Produtos disponíveis: 1
+Produtos indisponíveis: 0
+Tipos de oferta distintos: 1
+
+RESUMO POR TIPO DE OFERTA
+----------------------------------------------------------------------
+Imperdível: 1
+
+ESTATÍSTICAS DE DESCONTO
+----------------------------------------------------------------------
+Produtos com desconto calculado: 1
+Desconto médio: 32.6%
+Maior desconto: 32.6%
+Economia total estimada (soma dos descontos): R$ 38,65
+
+MAIORES DESCONTOS (TOP 20)
+----------------------------------------------------------------------
+1. Vodka Absolut Tabasco 750ml
+   Link: https://www.pegpese.com.br/produto/24243/vodka-absolut-tabasco-750ml
+   ID do produto: 24243 | SKU: 39-05EB3 | EAN: 7312040553280
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 79,90
+   Preço anterior: R$ 118,55
+   Preço de catálogo: R$ 118,55
+   Desconto: 32.6% | Economia: R$ 38,65
+
+LISTAGEM COMPLETA DE PROMOÇÕES
+----------------------------------------------------------------------
+1. Vodka Absolut Tabasco 750ml
+   Link: https://www.pegpese.com.br/produto/24243/vodka-absolut-tabasco-750ml
+   ID do produto: 24243 | SKU: 39-05EB3 | EAN: 7312040553280
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 79,90
+   Preço anterior: R$ 118,55
+   Preço de catálogo: R$ 118,55
+   Desconto: 32.6% | Economia: R$ 38,65

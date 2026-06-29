@@ -1,0 +1,670 @@
+RELATÓRIO DE PROMOÇÕES - PEG PESE SUPERMERCADOS
+======================================================================
+Supermercado: Peg Pese Supermercados (pegpese)
+Plataforma: vipcommerce
+Gerado em: 27/06/2026 00:31:38
+Lote de coleta: 27/06/2026 00:31:19
+Fonte: https://www.pegpese.com.br/ofertas
+
+RESUMO GERAL
+----------------------------------------------------------------------
+Total de promoções: 44
+Produtos disponíveis: 40
+Produtos indisponíveis: 4
+Tipos de oferta distintos: 2
+
+RESUMO POR TIPO DE OFERTA
+----------------------------------------------------------------------
+Mais por menos: 39
+Imperdível: 5
+
+ESTATÍSTICAS DE DESCONTO
+----------------------------------------------------------------------
+Produtos com desconto calculado: 44
+Desconto médio: 9.6%
+Maior desconto: 32.6%
+Economia total estimada (soma dos descontos): R$ 152,22
+
+MAIORES DESCONTOS (TOP 20)
+----------------------------------------------------------------------
+1. Vodka Absolut Tabasco 750ml
+   Link: https://www.pegpese.com.br/produto/24243/vodka-absolut-tabasco-750ml
+   ID do produto: 24243 | SKU: 39-05EB3 | EAN: 7312040553280
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 79,90
+   Preço anterior: R$ 118,55
+   Preço de catálogo: R$ 118,55
+   Desconto: 32.6% | Economia: R$ 38,65
+
+2. Café Solúvel 3 Corações Liofilizado 100g
+   Link: https://www.pegpese.com.br/produto/1976/cafe-soluvel-3-coracoes-liofilizado-100g
+   ID do produto: 1976 | SKU: 39-007B8 | EAN: 7896005807668
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 30,71
+   Preço anterior: R$ 38,39
+   Preço de catálogo: R$ 38,39
+   Desconto: 20.0% | Economia: R$ 7,68
+
+3. Café Solúvel Iguaçu Liofilizado Gourmet 100g
+   Link: https://www.pegpese.com.br/produto/1992/cafe-soluvel-iguacu-liofilizado-gourmet-100g
+   ID do produto: 1992 | SKU: 39-007C8 | EAN: 7896019201452
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 30,71
+   Preço anterior: R$ 38,39
+   Preço de catálogo: R$ 29,69
+   Desconto: 20.0% | Economia: R$ 7,68
+
+4. Café Torrado E Moído 3 Corações 100% Árabica Peru 250g
+   Link: https://www.pegpese.com.br/produto/24196/cafe-torrado-e-moido-3-coracoes-100-arabica-peru-250g
+   ID do produto: 24196 | SKU: 39-05E84 | EAN: 7896045114269
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 30,71
+   Preço anterior: R$ 38,39
+   Preço de catálogo: R$ 38,39
+   Desconto: 20.0% | Economia: R$ 7,68
+
+5. Café Torrado E Moído 3 Corações 100% Árabica Côlombia 250g
+   Link: https://www.pegpese.com.br/produto/24197/cafe-torrado-e-moido-3-coracoes-100-arabica-colombia-250g
+   ID do produto: 24197 | SKU: 39-05E85 | EAN: 7896045114276
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 30,71
+   Preço anterior: R$ 38,39
+   Preço de catálogo: R$ 38,39
+   Desconto: 20.0% | Economia: R$ 7,68
+
+6. Vinho Mateus Branco 750ml
+   Link: https://www.pegpese.com.br/produto/21476/vinho-mateus-branco-750ml
+   ID do produto: 21476 | SKU: 39-053E4 | EAN: 5601012021509
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 54,90
+   Preço anterior: R$ 62,90
+   Preço de catálogo: R$ 62,90
+   Desconto: 12.7% | Economia: R$ 8,00
+
+7. Café Em Cápsula 3 Corações Expresso Supremo Com 10 Unidades 8g Cada
+   Link: https://www.pegpese.com.br/produto/1958/cafe-em-capsula-3-coracoes-expresso-supremo-com-10-unidades-8g-cada
+   ID do produto: 1958 | SKU: 39-007A6 | EAN: 7896005805008
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+8. Cappuccino Em Cápsula 3 Corações Classic 10 Unidades De 11g
+   Link: https://www.pegpese.com.br/produto/1963/cappuccino-em-capsula-3-coracoes-classic-10-unidades-de-11g
+   ID do produto: 1963 | SKU: 39-007AB | EAN: 7896005805077
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+9. Café Em Cápsula 3 Corações Filtrado Gourmet Com 10 Unidades De 7,5g Cada
+   Link: https://www.pegpese.com.br/produto/1965/cafe-em-capsula-3-coracoes-filtrado-gourmet-com-10-unidades-de-75g-cada
+   ID do produto: 1965 | SKU: 39-007AD | EAN: 7896005805114
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+10. Café Em Cápsula 3 Corações Café Com Leite 10 Unidades De 9g
+   Link: https://www.pegpese.com.br/produto/1966/cafe-em-capsula-3-coracoes-cafe-com-leite-10-unidades-de-9g
+   ID do produto: 1966 | SKU: 39-007AE | EAN: 7896005805121
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+11. Chocolate Quente Em Cápsula 3 Corações Chocolatto 10 Undades De 11g
+   Link: https://www.pegpese.com.br/produto/1967/chocolate-quente-em-capsula-3-coracoes-chocolatto-10-undades-de-11g
+   ID do produto: 1967 | SKU: 39-007AF | EAN: 7896005805138
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+12. Café Em Cápsula 3 Corações Espresso Ameno 10 Unidades De 8g
+   Link: https://www.pegpese.com.br/produto/1969/cafe-em-capsula-3-coracoes-espresso-ameno-10-unidades-de-8g
+   ID do produto: 1969 | SKU: 39-007B1 | EAN: 7896005805701
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+13. Café Em Cápsula 3 Corações Espresso Atento 10 Unidades De 8g
+   Link: https://www.pegpese.com.br/produto/1970/cafe-em-capsula-3-coracoes-espresso-atento-10-unidades-de-8g
+   ID do produto: 1970 | SKU: 39-007B2 | EAN: 7896005805718
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+14. Chocolate Quente Em Cápsula 3 Corações Chocolatto Caramello 10 Unidades De 10,5g
+   Link: https://www.pegpese.com.br/produto/1971/chocolate-quente-em-capsula-3-coracoes-chocolatto-caramello-10-unidades-de-105g
+   ID do produto: 1971 | SKU: 39-007B3 | EAN: 7896005806203
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+15. Café Em Cápsula 3 Corações Gourmet Chapada Diamantina Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/1982/cafe-em-capsula-3-coracoes-gourmet-chapada-diamantina-com-10-unidades
+   ID do produto: 1982 | SKU: 39-007BE | EAN: 7896005807828
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+16. Café Com Leite Em Cápsula 3 Corações Latte Macchiato 110g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/1988/cafe-com-leite-em-capsula-3-coracoes-latte-macchiato-110g-com-10-unidades
+   ID do produto: 1988 | SKU: 39-007C4 | EAN: 7896005810057
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+17. Cappuccino Em Cápsula Avelã 3 Corações 110g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/1989/cappuccino-em-capsula-avela-3-coracoes-110g-com-10-unidades
+   ID do produto: 1989 | SKU: 39-007C5 | EAN: 7896005810323
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+18. Cappuccino Em Cápsula 3 Corações Doce De Leite Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/11035/cappuccino-em-capsula-3-coracoes-doce-de-leite-com-10-unidades
+   ID do produto: 11035 | SKU: 39-02B1B | EAN: 7896045102570
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+19. Café Em Cápsula 3 Corações Nespresso Intenso 50g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/14291/cafe-em-capsula-3-coracoes-nespresso-intenso-50g-com-10-unidades
+   ID do produto: 14291 | SKU: 39-037D3 | EAN: 7896045111312
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,00
+
+20. Café Em Cápsula 3 Corações Nespresso Cerrado Mineiro 50g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/14293/cafe-em-capsula-3-coracoes-nespresso-cerrado-mineiro-50g-com-10-unidades
+   ID do produto: 14293 | SKU: 39-037D5 | EAN: 7896045111299
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,00
+
+LISTAGEM COMPLETA DE PROMOÇÕES
+----------------------------------------------------------------------
+1. Café 3 Coracões Gourmet Cerrado Mineiro 250g
+   Link: https://www.pegpese.com.br/produto/2001/cafe-3-coracoes-gourmet-cerrado-mineiro-250g
+   ID do produto: 2001 | SKU: 39-007D1 | EAN: 7896045101658
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 29,69
+   Preço anterior: R$ 29,70
+   Preço de catálogo: R$ 27,49
+   Desconto: 0.0% | Economia: R$ 0,01
+
+2. Café 3 Coracões Gourmet Mogiana Paulista 250g
+   Link: https://www.pegpese.com.br/produto/2000/cafe-3-coracoes-gourmet-mogiana-paulista-250g
+   ID do produto: 2000 | SKU: 39-007D0 | EAN: 7896045101641
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 29,69
+   Preço anterior: R$ 29,70
+   Preço de catálogo: R$ 27,49
+   Desconto: 0.0% | Economia: R$ 0,01
+
+3. Café 3 Corações Descafeinado Vácuo 250g
+   Link: https://www.pegpese.com.br/produto/1933/cafe-3-coracoes-descafeinado-vacuo-250g
+   ID do produto: 1933 | SKU: 39-0078D | EAN: 7896005800577
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 36,19
+   Preço anterior: R$ 36,20
+   Preço de catálogo: R$ 32,99
+   Desconto: 0.0% | Economia: R$ 0,01
+
+4. Café 3 Corações Gourmet Dark 250g
+   Link: https://www.pegpese.com.br/produto/14304/cafe-3-coracoes-gourmet-dark-250g
+   ID do produto: 14304 | SKU: 39-037E0 | EAN: 7896045106851
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 29,69
+   Preço anterior: R$ 29,70
+   Preço de catálogo: R$ 27,49
+   Desconto: 0.0% | Economia: R$ 0,01
+
+5. Café 3 Corações Gourmet Sul De Minas 250g
+   Link: https://www.pegpese.com.br/produto/2002/cafe-3-coracoes-gourmet-sul-de-minas-250g
+   ID do produto: 2002 | SKU: 39-007D2 | EAN: 7896045101665
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 29,69
+   Preço anterior: R$ 29,70
+   Preço de catálogo: R$ 27,49
+   Desconto: 0.0% | Economia: R$ 0,01
+
+6. Café Com Leite Em Capsula 3 Corações Baileys Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/14300/cafe-com-leite-em-capsula-3-coracoes-baileys-com-10-unidades
+   ID do produto: 14300 | SKU: 39-037DC | EAN: 7896045104871
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+7. Café Com Leite Em Cápsula 3 Corações Latte Macchiato 110g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/1988/cafe-com-leite-em-capsula-3-coracoes-latte-macchiato-110g-com-10-unidades
+   ID do produto: 1988 | SKU: 39-007C4 | EAN: 7896005810057
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+8. Café Em Cápsula 3 Corações Café Com Leite 10 Unidades De 9g
+   Link: https://www.pegpese.com.br/produto/1966/cafe-em-capsula-3-coracoes-cafe-com-leite-10-unidades-de-9g
+   ID do produto: 1966 | SKU: 39-007AE | EAN: 7896005805121
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+9. Café Em Cápsula 3 Corações Espresso Ameno 10 Unidades De 8g
+   Link: https://www.pegpese.com.br/produto/1969/cafe-em-capsula-3-coracoes-espresso-ameno-10-unidades-de-8g
+   ID do produto: 1969 | SKU: 39-007B1 | EAN: 7896005805701
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+10. Café Em Cápsula 3 Corações Espresso Atento 10 Unidades De 8g
+   Link: https://www.pegpese.com.br/produto/1970/cafe-em-capsula-3-coracoes-espresso-atento-10-unidades-de-8g
+   ID do produto: 1970 | SKU: 39-007B2 | EAN: 7896005805718
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+11. Café Em Cápsula 3 Corações Expresso Pleno 10 Unidades De 8g Cada
+   Link: https://www.pegpese.com.br/produto/1957/cafe-em-capsula-3-coracoes-expresso-pleno-10-unidades-de-8g-cada
+   ID do produto: 1957 | SKU: 39-007A5 | EAN: 7896005804995
+   Marca: N/D | Unidade: UN | Disponível: Não
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+12. Café Em Cápsula 3 Corações Expresso Supremo Com 10 Unidades 8g Cada
+   Link: https://www.pegpese.com.br/produto/1958/cafe-em-capsula-3-coracoes-expresso-supremo-com-10-unidades-8g-cada
+   ID do produto: 1958 | SKU: 39-007A6 | EAN: 7896005805008
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+13. Café Em Cápsula 3 Corações Expresso Vibrante Com 10 Unidades 8g Cada
+   Link: https://www.pegpese.com.br/produto/1959/cafe-em-capsula-3-coracoes-expresso-vibrante-com-10-unidades-8g-cada
+   ID do produto: 1959 | SKU: 39-007A7 | EAN: 7896005805015
+   Marca: N/D | Unidade: UN | Disponível: Não
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+14. Café Em Cápsula 3 Corações Filtrado Clássico 10 Unidades De 7,5g
+   Link: https://www.pegpese.com.br/produto/1964/cafe-em-capsula-3-coracoes-filtrado-classico-10-unidades-de-75g
+   ID do produto: 1964 | SKU: 39-007AC | EAN: 7896005805107
+   Marca: N/D | Unidade: UN | Disponível: Não
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+15. Café Em Cápsula 3 Corações Filtrado Gourmet Com 10 Unidades De 7,5g Cada
+   Link: https://www.pegpese.com.br/produto/1965/cafe-em-capsula-3-coracoes-filtrado-gourmet-com-10-unidades-de-75g-cada
+   ID do produto: 1965 | SKU: 39-007AD | EAN: 7896005805114
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+16. Café Em Cápsula 3 Corações Forza Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/18523/cafe-em-capsula-3-coracoes-forza-com-10-unidades
+   ID do produto: 18523 | SKU: 39-0485B | EAN: 7896045101733
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+17. Café Em Cápsula 3 Corações Gourmet Chapada Diamantina Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/1982/cafe-em-capsula-3-coracoes-gourmet-chapada-diamantina-com-10-unidades
+   ID do produto: 1982 | SKU: 39-007BE | EAN: 7896005807828
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+18. Café Em Cápsula 3 Corações Gourmet Dark Roast Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/18525/cafe-em-capsula-3-coracoes-gourmet-dark-roast-com-10-unidades
+   ID do produto: 18525 | SKU: 39-0485D | EAN: 7896045111251
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+19. Café Em Cápsula 3 Corações Nespresso Cerrado Mineiro 50g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/14293/cafe-em-capsula-3-coracoes-nespresso-cerrado-mineiro-50g-com-10-unidades
+   ID do produto: 14293 | SKU: 39-037D5 | EAN: 7896045111299
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,00
+
+20. Café Em Cápsula 3 Corações Nespresso Colômbia 56g Com 10 Unidades 
+   Link: https://www.pegpese.com.br/produto/20250/cafe-em-capsula-3-coracoes-nespresso-colombia-56g-com-10-unidades
+   ID do produto: 20250 | SKU: 39-04F1A | EAN: 7896045113972
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,00
+
+21. Café Em Cápsula 3 Corações Nespresso Intenso 50g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/14291/cafe-em-capsula-3-coracoes-nespresso-intenso-50g-com-10-unidades
+   ID do produto: 14291 | SKU: 39-037D3 | EAN: 7896045111312
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,00
+
+22. Café Em Cápsula 3 Corações Nespresso Mogiana 50g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/14295/cafe-em-capsula-3-coracoes-nespresso-mogiana-50g-com-10-unidades
+   ID do produto: 14295 | SKU: 39-037D7 | EAN: 7896045111282
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,00
+
+23. Café Em Cápsula 3 Corações Nespresso Máximo 56g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/20252/cafe-em-capsula-3-coracoes-nespresso-maximo-56g-com-10-unidades
+   ID do produto: 20252 | SKU: 39-04F1C | EAN: 7896045113880
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,00
+
+24. Café Em Cápsula 3 Corações Nespresso Peru 56g 10 Unidades
+   Link: https://www.pegpese.com.br/produto/20251/cafe-em-capsula-3-coracoes-nespresso-peru-56g-10-unidades
+   ID do produto: 20251 | SKU: 39-04F1B | EAN: 7896045113965
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,00
+
+25. Café Em Cápsula Torrado E Moído Espresso Darth Vader Star Wars 3 Corações Caixa 10 Unidades
+   Link: https://www.pegpese.com.br/produto/18817/cafe-em-capsula-torrado-e-moido-espresso-darth-vader-star-wars-3-coracoes-caixa-10-unidades
+   ID do produto: 18817 | SKU: 39-04981 | EAN: 7896045112678
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+26. Café Em Cápsula Torrado E Moído Espresso Mestre Yoda Star Wars 3 Corações Caixa 10 Unidades
+   Link: https://www.pegpese.com.br/produto/18818/cafe-em-capsula-torrado-e-moido-espresso-mestre-yoda-star-wars-3-coracoes-caixa-10-unidades
+   ID do produto: 18818 | SKU: 39-04982 | EAN: 7896045112661
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+27. Café Expresso Em Cápsulas 3 Corações Descafeinado 80g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/1960/cafe-expresso-em-capsulas-3-coracoes-descafeinado-80g-com-10-unidades
+   ID do produto: 1960 | SKU: 39-007A8 | EAN: 7896005805022
+   Marca: N/D | Unidade: UN | Disponível: Não
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+28. Café Solúvel 3 Corações Liofilizado 100g
+   Link: https://www.pegpese.com.br/produto/1976/cafe-soluvel-3-coracoes-liofilizado-100g
+   ID do produto: 1976 | SKU: 39-007B8 | EAN: 7896005807668
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 30,71
+   Preço anterior: R$ 38,39
+   Preço de catálogo: R$ 38,39
+   Desconto: 20.0% | Economia: R$ 7,68
+
+29. Café Solúvel Iguaçu Liofilizado Gourmet 100g
+   Link: https://www.pegpese.com.br/produto/1992/cafe-soluvel-iguacu-liofilizado-gourmet-100g
+   ID do produto: 1992 | SKU: 39-007C8 | EAN: 7896019201452
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 30,71
+   Preço anterior: R$ 38,39
+   Preço de catálogo: R$ 29,69
+   Desconto: 20.0% | Economia: R$ 7,68
+
+30. Café Torrado E Moído 3 Corações 100% Árabica Côlombia 250g
+   Link: https://www.pegpese.com.br/produto/24197/cafe-torrado-e-moido-3-coracoes-100-arabica-colombia-250g
+   ID do produto: 24197 | SKU: 39-05E85 | EAN: 7896045114276
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 30,71
+   Preço anterior: R$ 38,39
+   Preço de catálogo: R$ 38,39
+   Desconto: 20.0% | Economia: R$ 7,68
+
+31. Café Torrado E Moído 3 Corações 100% Árabica Peru 250g
+   Link: https://www.pegpese.com.br/produto/24196/cafe-torrado-e-moido-3-coracoes-100-arabica-peru-250g
+   ID do produto: 24196 | SKU: 39-05E84 | EAN: 7896045114269
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 30,71
+   Preço anterior: R$ 38,39
+   Preço de catálogo: R$ 38,39
+   Desconto: 20.0% | Economia: R$ 7,68
+
+32. Cappuccino Em Cápsula 3 Corações Classic 10 Unidades De 11g
+   Link: https://www.pegpese.com.br/produto/1963/cappuccino-em-capsula-3-coracoes-classic-10-unidades-de-11g
+   ID do produto: 1963 | SKU: 39-007AB | EAN: 7896005805077
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+33. Cappuccino Em Cápsula 3 Corações Doce De Leite Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/11035/cappuccino-em-capsula-3-coracoes-doce-de-leite-com-10-unidades
+   ID do produto: 11035 | SKU: 39-02B1B | EAN: 7896045102570
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+34. Cappuccino Em Cápsula 3 Corações Napolitano 10 Unidades 110g
+   Link: https://www.pegpese.com.br/produto/20471/cappuccino-em-capsula-3-coracoes-napolitano-10-unidades-110g
+   ID do produto: 20471 | SKU: 39-04FF7 | EAN: 7896045114092
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+35. Cappuccino Em Cápsula Avelã 3 Corações 110g Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/1989/cappuccino-em-capsula-avela-3-coracoes-110g-com-10-unidades
+   ID do produto: 1989 | SKU: 39-007C5 | EAN: 7896005810323
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+36. Chocolate Quente Em Cápsula 3 Corações Chocolatto 10 Undades De 11g
+   Link: https://www.pegpese.com.br/produto/1967/chocolate-quente-em-capsula-3-coracoes-chocolatto-10-undades-de-11g
+   ID do produto: 1967 | SKU: 39-007AF | EAN: 7896005805138
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+37. Chocolate Quente Em Cápsula 3 Corações Chocolatto Caramello 10 Unidades De 10,5g
+   Link: https://www.pegpese.com.br/produto/1971/chocolate-quente-em-capsula-3-coracoes-chocolatto-caramello-10-unidades-de-105g
+   ID do produto: 1971 | SKU: 39-007B3 | EAN: 7896005806203
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 25,29
+   Desconto: 9.1% | Economia: R$ 2,30
+
+38. Chá Camomila Em Cápsula 3 Corações Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/19688/cha-camomila-em-capsula-3-coracoes-com-10-unidades
+   ID do produto: 19688 | SKU: 39-04CE8 | EAN: 7896005805039
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+39. Chá Em Capsula 3 Corações Laranja E Hibisco Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/14299/cha-em-capsula-3-coracoes-laranja-e-hibisco-com-10-unidades
+   ID do produto: 14299 | SKU: 39-037DB | EAN: 7896045104741
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+40. Chá Em Cápsula 3 Corações Noites Tranquilas Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/18520/cha-em-capsula-3-coracoes-noites-tranquilas-com-10-unidades
+   ID do produto: 18520 | SKU: 39-04858 | EAN: 7896045112289
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+41. Chá Misto Limão/gengibre Cápsula 3 Corações Com 10 Unidades
+   Link: https://www.pegpese.com.br/produto/19689/cha-misto-limaogengibre-capsula-3-coracoes-com-10-unidades
+   ID do produto: 19689 | SKU: 39-04CE9 | EAN: 7896045100552
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 25,29
+   Preço de catálogo: R$ 21,99
+   Desconto: 9.1% | Economia: R$ 2,30
+
+42. Vinho Mateus Branco 750ml
+   Link: https://www.pegpese.com.br/produto/21476/vinho-mateus-branco-750ml
+   ID do produto: 21476 | SKU: 39-053E4 | EAN: 5601012021509
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 54,90
+   Preço anterior: R$ 62,90
+   Preço de catálogo: R$ 62,90
+   Desconto: 12.7% | Economia: R$ 8,00
+
+43. Vinho Mateus Rose 750ml
+   Link: https://www.pegpese.com.br/produto/11808/vinho-mateus-rose-750ml
+   ID do produto: 11808 | SKU: 39-02E20 | EAN: 5601012011500
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Mais por menos (tag: mais-por-menos)
+   Preço promocional: R$ 59,90
+   Preço anterior: R$ 62,90
+   Preço de catálogo: R$ 62,90
+   Desconto: 4.8% | Economia: R$ 3,00
+
+44. Vodka Absolut Tabasco 750ml
+   Link: https://www.pegpese.com.br/produto/24243/vodka-absolut-tabasco-750ml
+   ID do produto: 24243 | SKU: 39-05EB3 | EAN: 7312040553280
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Imperdível (tag: imperdivel)
+   Preço promocional: R$ 79,90
+   Preço anterior: R$ 118,55
+   Preço de catálogo: R$ 118,55
+   Desconto: 32.6% | Economia: R$ 38,65

@@ -1,0 +1,1192 @@
+RELATÓRIO DE PROMOÇÕES - PÃO DE AÇÚCAR
+======================================================================
+Supermercado: Pão de Açúcar (paodeacucar)
+Plataforma: gpa
+Gerado em: 21/06/2026 20:27:54
+Lote de coleta: 21/06/2026 20:27:50
+Fonte: https://www.paodeacucar.com/especial/ofertasdodia-pao2023
+
+RESUMO GERAL
+----------------------------------------------------------------------
+Total de promoções: 96
+Produtos disponíveis: 96
+Produtos indisponíveis: 0
+Tipos de oferta distintos: 4
+
+RESUMO POR TIPO DE OFERTA
+----------------------------------------------------------------------
+Oferta Amarelo: 55
+Oferta: 26
+Leve 3 pague 2: 13
+Leve 5 pague 4: 2
+
+ESTATÍSTICAS DE DESCONTO
+----------------------------------------------------------------------
+Produtos com desconto calculado: 42
+Desconto médio: 25.3%
+Maior desconto: 50.0%
+Economia total estimada (soma dos descontos): R$ 232,19
+
+MAIORES DESCONTOS (TOP 20)
+----------------------------------------------------------------------
+1. Odorizador de Ambiente Frutas e Flores Vibrantes Glade Automatic Frasco 269ml Spray Refil
+   Link: https://www.paodeacucar.com/produto/464937/odorizador-de-ambiente-frutas-e-flores-vibrantes-glade-automatic-frasco-269ml-spray-refil
+   ID do produto: 464937 | SKU: 1226748 | EAN: N/D
+   Marca: GLADE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 20,50
+   Preço anterior: R$ 40,99
+   Preço de catálogo: R$ 40,99
+   Desconto: 50.0% | Economia: R$ 20,49
+
+2. Desodorante Aerosol NOUS Men Power 150ml
+   Link: https://www.paodeacucar.com/produto/457343/desodorante-aerosol-nous-men-power-150ml
+   ID do produto: 457343 | SKU: 1214762 | EAN: N/D
+   Marca: Nous | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 14,99
+   Preço de catálogo: R$ 14,99
+   Desconto: 40.0% | Economia: R$ 6,00
+
+3. Iogurte Líquido YoPRO 15g de Proteínas Morango 250g
+   Link: https://www.paodeacucar.com/produto/438463/iogurte-liquido-yopro-15g-de-proteinas-morango-250g
+   ID do produto: 438463 | SKU: 1187556 | EAN: N/D
+   Marca: YOPRO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 13,49
+   Preço de catálogo: R$ 13,49
+   Desconto: 33.4% | Economia: R$ 4,50
+
+4. Pipoca para Micro-Ondas Manteiga Yoki Pacote 50g
+   Link: https://www.paodeacucar.com/produto/394210/pipoca-para-micro-ondas-manteiga-yoki-pacote-50g
+   ID do produto: 394210 | SKU: 1134218 | EAN: N/D
+   Marca: YOKI | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 1,99
+   Preço anterior: R$ 2,99
+   Preço de catálogo: R$ 2,99
+   Desconto: 33.4% | Economia: R$ 1,00
+
+5. Batata Frita Lisa Clássica Lays Pacote 115g
+   Link: https://www.paodeacucar.com/produto/1623318/batata-frita-lisa-classica-lays-pacote-115g
+   ID do produto: 1623318 | SKU: 1388578 | EAN: N/D
+   Marca: Lays | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 10,99
+   Preço anterior: R$ 16,49
+   Preço de catálogo: R$ 16,49
+   Desconto: 33.4% | Economia: R$ 5,50
+
+6. Café em Cápsula Torrado e Moído Espresso Nescafé Dolce Gusto Caixa 60g 10 Unidades
+   Link: https://www.paodeacucar.com/produto/434983/cafe-em-capsula-torrado-e-moido-espresso-nescafe-dolce-gusto-caixa-60g-10-unidades
+   ID do produto: 434983 | SKU: 1156101 | EAN: N/D
+   Marca: Nescafé Dolce Gusto | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 15,99
+   Preço anterior: R$ 23,99
+   Preço de catálogo: R$ 23,99
+   Desconto: 33.3% | Economia: R$ 8,00
+
+7. Café em Cápsula Torrado e Moído Ristretto Espresso Lor Caixa 52g 10 Unidades
+   Link: https://www.paodeacucar.com/produto/389382/cafe-em-capsula-torrado-e-moido-ristretto-espresso-lor-caixa-52g-10-unidades
+   ID do produto: 389382 | SKU: 1130397 | EAN: N/D
+   Marca: L'OR | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 17,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 33.3% | Economia: R$ 9,00
+
+8. Café em Cápsula Torrado e Moído Espresso Supremo 3 Corações Caixa 10 Unidades 8g Cada
+   Link: https://www.paodeacucar.com/produto/297372/cafe-em-capsula-torrado-e-moido-espresso-supremo-3-coracoes-caixa-10-unidades-8g-cada
+   ID do produto: 297372 | SKU: 1042366 | EAN: N/D
+   Marca: 3 CORAÇÕES | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 15,99
+   Preço anterior: R$ 23,99
+   Preço de catálogo: R$ 23,99
+   Desconto: 33.3% | Economia: R$ 8,00
+
+9. Café em Cápsula Starbucks® Single-Origin Colombia by Nespresso® - 10 cápsulas
+   Link: https://www.paodeacucar.com/produto/441613/cafe-em-capsula-starbucks®-single-origin-colombia-by-nespresso®---10-capsulas
+   ID do produto: 441613 | SKU: 1194405 | EAN: N/D
+   Marca: STARBUCKS | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 33.3% | Economia: R$ 10,00
+
+10. Bebida Láctea UHT Chocolate Zero Lactose Yopro 15g High Protein Caixa 250ml
+   Link: https://www.paodeacucar.com/produto/447003/bebida-lactea-uht-chocolate-zero-lactose-yopro-15g-high-protein-caixa-250ml
+   ID do produto: 447003 | SKU: 1203132 | EAN: N/D
+   Marca: YOPRO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 6,66
+   Preço anterior: R$ 9,99
+   Preço de catálogo: R$ 9,99
+   Desconto: 33.3% | Economia: R$ 3,33
+
+11. Iogurte YoPRO 17g de Proteínas Natural 160g
+   Link: https://www.paodeacucar.com/produto/448555/iogurte-yopro-17g-de-proteinas-natural-160g
+   ID do produto: 448555 | SKU: 1196826 | EAN: N/D
+   Marca: YOPRO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 7,66
+   Preço anterior: R$ 11,49
+   Preço de catálogo: R$ 11,49
+   Desconto: 33.3% | Economia: R$ 3,83
+
+12. Iogurte YoPRO Pouch 15g de Proteínas Açaí com Banana 160g
+   Link: https://www.paodeacucar.com/produto/709896/iogurte-yopro-pouch-15g-de-proteinas-acai-com-banana-160g
+   ID do produto: 709896 | SKU: 1311497 | EAN: N/D
+   Marca: YOPRO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 7,66
+   Preço anterior: R$ 11,49
+   Preço de catálogo: R$ 11,49
+   Desconto: 33.3% | Economia: R$ 3,83
+
+13. Batata Frita Ondulada Original Elma Chips Ruffles Pacote 115g
+   Link: https://www.paodeacucar.com/produto/600966/batata-frita-ondulada-original-elma-chips-ruffles-pacote-115g
+   ID do produto: 600966 | SKU: 1274716 | EAN: N/D
+   Marca: RUFFLES | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 9,66
+   Preço anterior: R$ 14,49
+   Preço de catálogo: R$ 14,49
+   Desconto: 33.3% | Economia: R$ 4,83
+
+14. Salgadinho de Milho Queijo Nacho Doritos Pacote 120g
+   Link: https://www.paodeacucar.com/produto/1623329/salgadinho-de-milho-queijo-nacho-doritos-pacote-120g
+   ID do produto: 1623329 | SKU: 1388552 | EAN: N/D
+   Marca: DORITOS | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 12,66
+   Preço anterior: R$ 18,99
+   Preço de catálogo: R$ 18,99
+   Desconto: 33.3% | Economia: R$ 6,33
+
+15. Salgadinho de Milho Queijo Nacho Doritos Pacote 75g
+   Link: https://www.paodeacucar.com/produto/1623328/salgadinho-de-milho-queijo-nacho-doritos-pacote-75g
+   ID do produto: 1623328 | SKU: 1388553 | EAN: N/D
+   Marca: DORITOS | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 5,53
+   Preço anterior: R$ 8,29
+   Preço de catálogo: R$ 8,29
+   Desconto: 33.3% | Economia: R$ 2,76
+
+16. Linguiça Toscana com Queijo Coalho Perdigão na Brasa 600g
+   Link: https://www.paodeacucar.com/produto/382109/linguica-toscana-com-queijo-coalho-perdigao-na-brasa-600g
+   ID do produto: 382109 | SKU: 1126134 | EAN: N/D
+   Marca: PERDIGÃO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 25,68
+   Preço anterior: R$ 36,69
+   Preço de catálogo: R$ 36,69
+   Desconto: 30.0% | Economia: R$ 11,01
+
+17. Azeite de Oliva Extra Virgem Português Andorinha Clássicos Vidro 500ml
+   Link: https://www.paodeacucar.com/produto/86559/azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml
+   ID do produto: 86559 | SKU: 0669252 | EAN: N/D
+   Marca: ANDORINHA | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 25,49
+   Preço anterior: R$ 33,99
+   Preço de catálogo: R$ 33,99
+   Desconto: 25.0% | Economia: R$ 8,50
+
+18. Azeite de Oliva Extravirgem O-Live 450ml
+   Link: https://www.paodeacucar.com/produto/1616498/azeite-de-oliva-extravirgem-o-live-450ml
+   ID do produto: 1616498 | SKU: 1379387 | EAN: N/D
+   Marca: O-Live E Co | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 22,49
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 25.0% | Economia: R$ 7,50
+
+19. Azeite de Oliva Extra Virgem Clássico Português Gallo Vidro 500ml
+   Link: https://www.paodeacucar.com/produto/100849/azeite-de-oliva-extra-virgem-classico-portugues-gallo-vidro-500ml
+   ID do produto: 100849 | SKU: 0358149 | EAN: N/D
+   Marca: GALLO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 27,74
+   Preço anterior: R$ 36,99
+   Preço de catálogo: R$ 36,99
+   Desconto: 25.0% | Economia: R$ 9,25
+
+20. Azeite de Oliva Extra Virgem Italiano De Cecco Vidro 500ml
+   Link: https://www.paodeacucar.com/produto/34711/azeite-de-oliva-extra-virgem-italiano-de-cecco-vidro-500ml
+   ID do produto: 34711 | SKU: 5998289 | EAN: N/D
+   Marca: DE CECCO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 29,24
+   Preço anterior: R$ 38,99
+   Preço de catálogo: R$ 38,99
+   Desconto: 25.0% | Economia: R$ 9,75
+
+LISTAGEM COMPLETA DE PROMOÇÕES
+----------------------------------------------------------------------
+1. Achocolatado Pó Nescau Pacote 550g Refil Econômico
+   Link: https://www.paodeacucar.com/produto/586542/achocolatado-po-nescau-pacote-550g-refil-economico
+   ID do produto: 586542 | SKU: 1272362 | EAN: N/D
+   Marca: Nescau | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 16,57
+   Preço anterior: R$ 19,49
+   Preço de catálogo: R$ 19,49
+   Desconto: 15.0% | Economia: R$ 2,92
+
+2. Azeite de Oliva Extra Virgem Clássico Português Gallo Vidro 500ml
+   Link: https://www.paodeacucar.com/produto/100849/azeite-de-oliva-extra-virgem-classico-portugues-gallo-vidro-500ml
+   ID do produto: 100849 | SKU: 0358149 | EAN: N/D
+   Marca: GALLO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 27,74
+   Preço anterior: R$ 36,99
+   Preço de catálogo: R$ 36,99
+   Desconto: 25.0% | Economia: R$ 9,25
+
+3. Azeite de Oliva Extra Virgem Italiano De Cecco Vidro 500ml
+   Link: https://www.paodeacucar.com/produto/34711/azeite-de-oliva-extra-virgem-italiano-de-cecco-vidro-500ml
+   ID do produto: 34711 | SKU: 5998289 | EAN: N/D
+   Marca: DE CECCO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 29,24
+   Preço anterior: R$ 38,99
+   Preço de catálogo: R$ 38,99
+   Desconto: 25.0% | Economia: R$ 9,75
+
+4. Azeite de Oliva Extra Virgem Português Andorinha Clássicos Vidro 500ml
+   Link: https://www.paodeacucar.com/produto/86559/azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml
+   ID do produto: 86559 | SKU: 0669252 | EAN: N/D
+   Marca: ANDORINHA | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 25,49
+   Preço anterior: R$ 33,99
+   Preço de catálogo: R$ 33,99
+   Desconto: 25.0% | Economia: R$ 8,50
+
+5. Azeite de Oliva Extravirgem O-Live 450ml
+   Link: https://www.paodeacucar.com/produto/1616498/azeite-de-oliva-extravirgem-o-live-450ml
+   ID do produto: 1616498 | SKU: 1379387 | EAN: N/D
+   Marca: O-Live E Co | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 22,49
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 25.0% | Economia: R$ 7,50
+
+6. Azeite Extra Virgem Las Doscientas Arbenquina 500ml
+   Link: https://www.paodeacucar.com/produto/459212/azeite-extra-virgem-las-doscientas-arbenquina-500ml
+   ID do produto: 459212 | SKU: 1225127 | EAN: N/D
+   Marca: Las Doscientas | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 29,99
+   Preço anterior: R$ 39,99
+   Preço de catálogo: R$ 39,99
+   Desconto: 25.0% | Economia: R$ 10,00
+
+7. Batata Frita Lisa Clássica Lays Pacote 115g
+   Link: https://www.paodeacucar.com/produto/1623318/batata-frita-lisa-classica-lays-pacote-115g
+   ID do produto: 1623318 | SKU: 1388578 | EAN: N/D
+   Marca: Lays | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 10,99
+   Preço anterior: R$ 16,49
+   Preço de catálogo: R$ 16,49
+   Desconto: 33.4% | Economia: R$ 5,50
+
+8. Batata Frita Ondulada Original Elma Chips Ruffles Pacote 115g
+   Link: https://www.paodeacucar.com/produto/600966/batata-frita-ondulada-original-elma-chips-ruffles-pacote-115g
+   ID do produto: 600966 | SKU: 1274716 | EAN: N/D
+   Marca: RUFFLES | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 9,66
+   Preço anterior: R$ 14,49
+   Preço de catálogo: R$ 14,49
+   Desconto: 33.3% | Economia: R$ 4,83
+
+9. Batata Pré-Frita Palito Congelada Qualitá Pacote 1,5kg
+   Link: https://www.paodeacucar.com/produto/1625374/batata-pre-frita-palito-congelada-qualita-pacote-1,5kg
+   ID do produto: 1625374 | SKU: 1390539 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 25,42
+   Preço anterior: R$ 29,90
+   Preço de catálogo: R$ 29,90
+   Desconto: 15.0% | Economia: R$ 4,48
+
+10. Bebida Láctea Nescau 180ml
+   Link: https://www.paodeacucar.com/produto/1376234/bebida-lactea-nescau-180ml
+   ID do produto: 1376234 | SKU: 0369725 | EAN: N/D
+   Marca: Nescau | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 3,29
+   Preço anterior: R$ 3,29
+   Preço de catálogo: R$ 3,29
+   Desconto: N/D | Economia: N/D
+
+11. Bebida Láctea UHT Chocolate Zero Lactose Yopro 15g High Protein Caixa 250ml
+   Link: https://www.paodeacucar.com/produto/447003/bebida-lactea-uht-chocolate-zero-lactose-yopro-15g-high-protein-caixa-250ml
+   ID do produto: 447003 | SKU: 1203132 | EAN: N/D
+   Marca: YOPRO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 6,66
+   Preço anterior: R$ 9,99
+   Preço de catálogo: R$ 9,99
+   Desconto: 33.3% | Economia: R$ 3,33
+
+12. Bebida Mista Alcoólica Gaseificada Limão 51 Ice Garrafa 275ml
+   Link: https://www.paodeacucar.com/produto/132031/bebida-mista-alcoolica-gaseificada-limao-51-ice-garrafa-275ml
+   ID do produto: 132031 | SKU: 5530038 | EAN: N/D
+   Marca: 51 Ice | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 5,49
+   Preço anterior: R$ 5,49
+   Preço de catálogo: R$ 5,49
+   Desconto: N/D | Economia: N/D
+
+13. Bebida Mista Alcoólica Limão Clássico Smirnoff Ice Garrafa 275Ml
+   Link: https://www.paodeacucar.com/produto/14426/bebida-mista-alcoolica-limao-classico-smirnoff-ice-garrafa-275ml
+   ID do produto: 14426 | SKU: 4598046 | EAN: N/D
+   Marca: SMIRNOFF | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 6,29
+   Preço anterior: R$ 6,29
+   Preço de catálogo: R$ 6,29
+   Desconto: N/D | Economia: N/D
+
+14. Bebida Mista Alcoólica Limão Clássico Smirnoff Ice Lata 269ml
+   Link: https://www.paodeacucar.com/produto/347925/bebida-mista-alcoolica-limao-classico-smirnoff-ice-lata-269ml
+   ID do produto: 347925 | SKU: 1112125 | EAN: N/D
+   Marca: Smirnoff Ice | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 5,09
+   Preço anterior: R$ 5,99
+   Preço de catálogo: R$ 5,99
+   Desconto: 15.0% | Economia: R$ 0,90
+
+15. Café em Cápsula Starbucks® Single-Origin Colombia by Nespresso® - 10 cápsulas
+   Link: https://www.paodeacucar.com/produto/441613/cafe-em-capsula-starbucks®-single-origin-colombia-by-nespresso®---10-capsulas
+   ID do produto: 441613 | SKU: 1194405 | EAN: N/D
+   Marca: STARBUCKS | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 19,99
+   Preço anterior: R$ 29,99
+   Preço de catálogo: R$ 29,99
+   Desconto: 33.3% | Economia: R$ 10,00
+
+16. Café em Cápsula Torrado e Moído Espresso Nescafé Dolce Gusto Caixa 60g 10 Unidades
+   Link: https://www.paodeacucar.com/produto/434983/cafe-em-capsula-torrado-e-moido-espresso-nescafe-dolce-gusto-caixa-60g-10-unidades
+   ID do produto: 434983 | SKU: 1156101 | EAN: N/D
+   Marca: Nescafé Dolce Gusto | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 15,99
+   Preço anterior: R$ 23,99
+   Preço de catálogo: R$ 23,99
+   Desconto: 33.3% | Economia: R$ 8,00
+
+17. Café em Cápsula Torrado e Moído Espresso Supremo 3 Corações Caixa 10 Unidades 8g Cada
+   Link: https://www.paodeacucar.com/produto/297372/cafe-em-capsula-torrado-e-moido-espresso-supremo-3-coracoes-caixa-10-unidades-8g-cada
+   ID do produto: 297372 | SKU: 1042366 | EAN: N/D
+   Marca: 3 CORAÇÕES | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 15,99
+   Preço anterior: R$ 23,99
+   Preço de catálogo: R$ 23,99
+   Desconto: 33.3% | Economia: R$ 8,00
+
+18. Café em Cápsula Torrado e Moído Ristretto Espresso Lor Caixa 52g 10 Unidades
+   Link: https://www.paodeacucar.com/produto/389382/cafe-em-capsula-torrado-e-moido-ristretto-espresso-lor-caixa-52g-10-unidades
+   ID do produto: 389382 | SKU: 1130397 | EAN: N/D
+   Marca: L'OR | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 17,99
+   Preço anterior: R$ 26,99
+   Preço de catálogo: R$ 26,99
+   Desconto: 33.3% | Economia: R$ 9,00
+
+19. Café Torrado e Moído a Vácuo Extraforte Pilão Pacote 500g
+   Link: https://www.paodeacucar.com/produto/292183/cafe-torrado-e-moido-a-vacuo-extraforte-pilao-pacote-500g
+   ID do produto: 292183 | SKU: 1038722 | EAN: N/D
+   Marca: PILÃO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 32,99
+   Preço anterior: R$ 32,99
+   Preço de catálogo: R$ 32,99
+   Desconto: N/D | Economia: N/D
+
+20. Café Torrado e Moído a Vácuo Tradicional Pilão Pacote 500g
+   Link: https://www.paodeacucar.com/produto/90515/cafe-torrado-e-moido-a-vacuo-tradicional-pilao-pacote-500g
+   ID do produto: 90515 | SKU: 1914795 | EAN: N/D
+   Marca: PILÃO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 32,99
+   Preço anterior: R$ 32,99
+   Preço de catálogo: R$ 32,99
+   Desconto: N/D | Economia: N/D
+
+21. Café Torrado e Moído Extraforte Pilão Pacote 500g
+   Link: https://www.paodeacucar.com/produto/292186/cafe-torrado-e-moido-extraforte-pilao-pacote-500g
+   ID do produto: 292186 | SKU: 1038723 | EAN: N/D
+   Marca: PILÃO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 32,99
+   Preço anterior: R$ 32,99
+   Preço de catálogo: R$ 32,99
+   Desconto: N/D | Economia: N/D
+
+22. Café Torrado e Moído Intenso Pilão Pacote 500g
+   Link: https://www.paodeacucar.com/produto/10930/cafe-torrado-e-moido-intenso-pilao-pacote-500g
+   ID do produto: 10930 | SKU: 4222712 | EAN: N/D
+   Marca: PILÃO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 32,99
+   Preço anterior: R$ 32,99
+   Preço de catálogo: R$ 32,99
+   Desconto: N/D | Economia: N/D
+
+23. Café Torrado e Moído Tradicional Pilão Pacote 500g
+   Link: https://www.paodeacucar.com/produto/152052/cafe-torrado-e-moido-tradicional-pilao-pacote-500g
+   ID do produto: 152052 | SKU: 0250719 | EAN: N/D
+   Marca: PILÃO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 32,99
+   Preço anterior: R$ 32,99
+   Preço de catálogo: R$ 32,99
+   Desconto: N/D | Economia: N/D
+
+24. Canjica de Milho Branca Tipo 1 Cristal Yoki Pacote 400g
+   Link: https://www.paodeacucar.com/produto/1615413/canjica-de-milho-branca-tipo-1-cristal-yoki-pacote-400g
+   ID do produto: 1615413 | SKU: 1378127 | EAN: N/D
+   Marca: YOKI | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 10,99
+   Preço anterior: R$ 10,99
+   Preço de catálogo: R$ 10,99
+   Desconto: N/D | Economia: N/D
+
+25. Carvão Vegetal para Churrasco Qualitá Pacote 5kg
+   Link: https://www.paodeacucar.com/produto/31633/carvao-vegetal-para-churrasco-qualita-pacote-5kg
+   ID do produto: 31633 | SKU: 4272861 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 44,72
+   Preço anterior: R$ 55,90
+   Preço de catálogo: R$ 55,90
+   Desconto: 20.0% | Economia: R$ 11,18
+
+26. Cerveja Belgian White Ale Blue Moon Lata 350ml
+   Link: https://www.paodeacucar.com/produto/1387081/cerveja-belgian-white-ale-blue-moon-lata-350ml
+   ID do produto: 1387081 | SKU: 1352815 | EAN: N/D
+   Marca: Blue Moon | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 9,49
+   Preço anterior: R$ 9,49
+   Preço de catálogo: R$ 9,49
+   Desconto: N/D | Economia: N/D
+
+27. Cerveja Heineken Zero Lata Sleek 350ml
+   Link: https://www.paodeacucar.com/produto/1606861/cerveja-heineken-zero-lata-sleek-350ml
+   ID do produto: 1606861 | SKU: 1376436 | EAN: N/D
+   Marca: HEINEKEN | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 5,09
+   Preço anterior: R$ 5,99
+   Preço de catálogo: R$ 5,99
+   Desconto: 15.0% | Economia: R$ 0,90
+
+28. Cerveja Lager Puro Malte Amstel Lata 350ml
+   Link: https://www.paodeacucar.com/produto/1606864/cerveja-lager-puro-malte-amstel-lata-350ml
+   ID do produto: 1606864 | SKU: 1376527 | EAN: N/D
+   Marca: AMSTEL | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 3,49
+   Preço anterior: R$ 3,49
+   Preço de catálogo: R$ 3,49
+   Desconto: N/D | Economia: N/D
+
+29. Cerveja Pilsen Budweiser Lata 269ml
+   Link: https://www.paodeacucar.com/produto/323696/cerveja-pilsen-budweiser-lata-269ml
+   ID do produto: 323696 | SKU: 1079027 | EAN: N/D
+   Marca: BUDWEISER | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 3,29
+   Preço anterior: R$ 3,29
+   Preço de catálogo: R$ 3,29
+   Desconto: N/D | Economia: N/D
+
+30. Cerveja Pilsen Corona Garrafa 330ml
+   Link: https://www.paodeacucar.com/produto/456783/cerveja-pilsen-corona-garrafa-330ml
+   ID do produto: 456783 | SKU: 1208502 | EAN: N/D
+   Marca: CORONA | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 6,79
+   Preço anterior: R$ 6,79
+   Preço de catálogo: R$ 6,79
+   Desconto: N/D | Economia: N/D
+
+31. Copa de Lombo Suíno 500g
+   Link: https://www.paodeacucar.com/produto/158077/copa-de-lombo-suino-500g
+   ID do produto: 158077 | SKU: 0131124 | EAN: N/D
+   Marca: Bandeiras | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 14,45
+   Preço anterior: R$ 14,45
+   Preço de catálogo: R$ 14,45
+   Desconto: N/D | Economia: N/D
+
+32. Creme de Castanha-de-Caju Ervas Finas e Pesto Vida Veg Pote 180g
+   Link: https://www.paodeacucar.com/produto/710370/creme-de-castanha-de-caju-ervas-finas-e-pesto-vida-veg-pote-180g
+   ID do produto: 710370 | SKU: 1311165 | EAN: N/D
+   Marca: Vida Veg | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 17,99
+   Preço anterior: R$ 17,99
+   Preço de catálogo: R$ 17,99
+   Desconto: N/D | Economia: N/D
+
+33. Creme de Leite Nestlé 200g
+   Link: https://www.paodeacucar.com/produto/43804/creme-de-leite-nestle-200g
+   ID do produto: 43804 | SKU: 0783682 | EAN: N/D
+   Marca: NESTLÉ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 6,49
+   Preço anterior: R$ 6,49
+   Preço de catálogo: R$ 6,49
+   Desconto: N/D | Economia: N/D
+
+34. Creme Dental Menta Original Colgate Tripla Ação Caixa 180g Preço Especial
+   Link: https://www.paodeacucar.com/produto/416599/creme-dental-menta-original-colgate-tripla-acao-caixa-180g-preco-especial
+   ID do produto: 416599 | SKU: 1149254 | EAN: N/D
+   Marca: COLGATE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 7,99
+   Preço anterior: R$ 7,99
+   Preço de catálogo: R$ 7,99
+   Desconto: N/D | Economia: N/D
+
+35. Desinfetante Gel Uso Geral Marine Pato Limpeza Profunda Squeeze 750ml
+   Link: https://www.paodeacucar.com/produto/1627896/desinfetante-gel-uso-geral-marine-pato-limpeza-profunda-squeeze-750ml
+   ID do produto: 1627896 | SKU: 1395710 | EAN: N/D
+   Marca: PATO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 16,79
+   Preço anterior: R$ 20,99
+   Preço de catálogo: R$ 20,99
+   Desconto: 20.0% | Economia: R$ 4,20
+
+36. Desodorante Aerosol NOUS Men Power 150ml
+   Link: https://www.paodeacucar.com/produto/457343/desodorante-aerosol-nous-men-power-150ml
+   ID do produto: 457343 | SKU: 1214762 | EAN: N/D
+   Marca: Nous | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 14,99
+   Preço de catálogo: R$ 14,99
+   Desconto: 40.0% | Economia: R$ 6,00
+
+37. Desodorante Antitranspirante Aerosol Dove Original 150ml
+   Link: https://www.paodeacucar.com/produto/35935/desodorante-antitranspirante-aerosol-dove-original-150ml
+   ID do produto: 35935 | SKU: 3447482 | EAN: N/D
+   Marca: DOVE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 17,90
+   Preço anterior: R$ 17,90
+   Preço de catálogo: R$ 17,90
+   Desconto: N/D | Economia: N/D
+
+38. Desodorante Antitranspirante Aerosol Feminino Rexona Powder Dry 72 horas 150ml
+   Link: https://www.paodeacucar.com/produto/19468/desodorante-antitranspirante-aerosol-feminino-rexona-powder-dry-72-horas-150ml
+   ID do produto: 19468 | SKU: 3665800 | EAN: N/D
+   Marca: REXONA | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 15,90
+   Preço anterior: R$ 15,90
+   Preço de catálogo: R$ 15,90
+   Desconto: N/D | Economia: N/D
+
+39. Energético Juice Monster Mango Loco Lata 473ml
+   Link: https://www.paodeacucar.com/produto/452790/energetico-juice-monster-mango-loco-lata-473ml
+   ID do produto: 452790 | SKU: 1194530 | EAN: N/D
+   Marca: MONSTER | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 10,49
+   Preço anterior: R$ 10,49
+   Preço de catálogo: R$ 10,49
+   Desconto: N/D | Economia: N/D
+
+40. Energético Monster Lata 473ml
+   Link: https://www.paodeacucar.com/produto/11178/energetico-monster-lata-473ml
+   ID do produto: 11178 | SKU: 4144830 | EAN: N/D
+   Marca: MONSTER | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 10,49
+   Preço anterior: R$ 10,49
+   Preço de catálogo: R$ 10,49
+   Desconto: N/D | Economia: N/D
+
+41. Energético Red Bull Energy Drink 250ml
+   Link: https://www.paodeacucar.com/produto/150403/energetico-red-bull-energy-drink-250ml
+   ID do produto: 150403 | SKU: 1735734 | EAN: N/D
+   Marca: RED BULL | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 7,59
+   Preço anterior: R$ 7,59
+   Preço de catálogo: R$ 7,59
+   Desconto: N/D | Economia: N/D
+
+42. Energético Red Bull Tropical Edition 250ml
+   Link: https://www.paodeacucar.com/produto/329773/energetico-red-bull-tropical-edition-250ml
+   ID do produto: 329773 | SKU: 1092051 | EAN: N/D
+   Marca: RED BULL | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 7,59
+   Preço anterior: R$ 7,59
+   Preço de catálogo: R$ 7,59
+   Desconto: N/D | Economia: N/D
+
+43. Enxaguante Bucal Antisséptico Zero Álcool Fresh Mint Colgate Plax Frasco Leve 750ml Pague 500ml
+   Link: https://www.paodeacucar.com/produto/1477081/enxaguante-bucal-antisseptico-zero-alcool-fresh-mint-colgate-plax-frasco-leve-750ml-pague-500ml
+   ID do produto: 1477081 | SKU: 1362547 | EAN: N/D
+   Marca: COLGATE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 18,88
+   Preço anterior: R$ 18,88
+   Preço de catálogo: R$ 18,88
+   Desconto: N/D | Economia: N/D
+
+44. Farofa de Mandioca com Pedaços de Cebola Crocante Yoki Caseiríssima Pacote 200g
+   Link: https://www.paodeacucar.com/produto/1628852/farofa-de-mandioca-com-pedacos-de-cebola-crocante-yoki-caseirissima-pacote-200g
+   ID do produto: 1628852 | SKU: 1395789 | EAN: N/D
+   Marca: YOKI | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 8,29
+   Preço anterior: R$ 8,29
+   Preço de catálogo: R$ 8,29
+   Desconto: N/D | Economia: N/D
+
+45. Farofa de Mandioca Tradicional Yoki Pacote 400g
+   Link: https://www.paodeacucar.com/produto/1567245/farofa-de-mandioca-tradicional-yoki-pacote-400g
+   ID do produto: 1567245 | SKU: 1366900 | EAN: N/D
+   Marca: YOKI | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 7,79
+   Preço anterior: R$ 7,79
+   Preço de catálogo: R$ 7,79
+   Desconto: N/D | Economia: N/D
+
+46. Filé Mignon Sem Cordão Bovino Resfriado 2,4Kg
+   Link: https://www.paodeacucar.com/produto/270771/file-mignon-sem-cordao-bovino-resfriado-2,4kg
+   ID do produto: 270771 | SKU: 0147644 | EAN: N/D
+   Marca: Bandeiras | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 292,56
+   Preço anterior: R$ 292,56
+   Preço de catálogo: R$ 292,56
+   Desconto: N/D | Economia: N/D
+
+47. Fio Dental com Cera Tradicional Menta Qualitá Care 125m
+   Link: https://www.paodeacucar.com/produto/1609491/fio-dental-com-cera-tradicional-menta-qualita-care-125m
+   ID do produto: 1609491 | SKU: 1377219 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 9,74
+   Preço anterior: R$ 12,99
+   Preço de catálogo: R$ 12,99
+   Desconto: 25.0% | Economia: R$ 3,25
+
+48. Fralda Huggies Roupinha Supreme Care M - 36 fraldas
+   Link: https://www.paodeacucar.com/produto/419003/fralda-huggies-roupinha-supreme-care-m---36-fraldas
+   ID do produto: 419003 | SKU: 1161501 | EAN: N/D
+   Marca: HUGGIES | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 41,99
+   Preço anterior: R$ 41,99
+   Preço de catálogo: R$ 41,99
+   Desconto: N/D | Economia: N/D
+
+49. Fraldinha Bovina Resfriada Maturatta Friboi 1,2kg
+   Link: https://www.paodeacucar.com/produto/140578/fraldinha-bovina-resfriada-maturatta-friboi-1,2kg
+   ID do produto: 140578 | SKU: 0076753 | EAN: N/D
+   Marca: Maturatta | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 95,88
+   Preço anterior: R$ 95,88
+   Preço de catálogo: R$ 95,88
+   Desconto: N/D | Economia: N/D
+
+50. Fubá de Milho YOKI Pacote 500g
+   Link: https://www.paodeacucar.com/produto/52930/fuba-de-milho-yoki-pacote-500g
+   ID do produto: 52930 | SKU: 0249515 | EAN: N/D
+   Marca: YOKI | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 5,79
+   Preço anterior: R$ 5,79
+   Preço de catálogo: R$ 5,79
+   Desconto: N/D | Economia: N/D
+
+51. Fórmula Infantil Ninho Fases 1+ Lata 800g
+   Link: https://www.paodeacucar.com/produto/155114/formula-infantil-ninho-fases-1+-lata-800g
+   ID do produto: 155114 | SKU: 4371205 | EAN: N/D
+   Marca: NINHO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 46,99
+   Preço anterior: R$ 46,99
+   Preço de catálogo: R$ 46,99
+   Desconto: N/D | Economia: N/D
+
+52. Gin London Dry Tanqueray Garrafa 750ml
+   Link: https://www.paodeacucar.com/produto/37355/gin-london-dry-tanqueray-garrafa-750ml
+   ID do produto: 37355 | SKU: 0306201 | EAN: N/D
+   Marca: TANQUERAY | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 99,99
+   Preço anterior: R$ 99,99
+   Preço de catálogo: R$ 99,99
+   Desconto: N/D | Economia: N/D
+
+53. Iogurte Desnatado Morango Zero Lactose Corpus Garrafa 800g
+   Link: https://www.paodeacucar.com/produto/1571863/iogurte-desnatado-morango-zero-lactose-corpus-garrafa-800g
+   ID do produto: 1571863 | SKU: 1369173 | EAN: N/D
+   Marca: CORPUS | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 16,14
+   Preço anterior: R$ 18,99
+   Preço de catálogo: R$ 18,99
+   Desconto: 15.0% | Economia: R$ 2,85
+
+54. Iogurte Desnatado Natural Danone Copo 160g
+   Link: https://www.paodeacucar.com/produto/478712/iogurte-desnatado-natural-danone-copo-160g
+   ID do produto: 478712 | SKU: 1255868 | EAN: N/D
+   Marca: DANONE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 5 pague 4 (tag: amarelo)
+   Preço promocional: R$ 3,75
+   Preço anterior: R$ 4,69
+   Preço de catálogo: R$ 4,69
+   Desconto: 20.0% | Economia: R$ 0,94
+
+55. Iogurte Integral Natural Danone Copo 160g
+   Link: https://www.paodeacucar.com/produto/478707/iogurte-integral-natural-danone-copo-160g
+   ID do produto: 478707 | SKU: 1255871 | EAN: N/D
+   Marca: DANONE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 5 pague 4 (tag: amarelo)
+   Preço promocional: R$ 3,75
+   Preço anterior: R$ 4,69
+   Preço de catálogo: R$ 4,69
+   Desconto: 20.0% | Economia: R$ 0,94
+
+56. Iogurte Líquido YoPRO 15g de Proteínas Morango 250g
+   Link: https://www.paodeacucar.com/produto/438463/iogurte-liquido-yopro-15g-de-proteinas-morango-250g
+   ID do produto: 438463 | SKU: 1187556 | EAN: N/D
+   Marca: YOPRO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 8,99
+   Preço anterior: R$ 13,49
+   Preço de catálogo: R$ 13,49
+   Desconto: 33.4% | Economia: R$ 4,50
+
+57. Iogurte Parcialmente Desnatado Vitamina de Frutas Danone Garrafa 1,25kg Embalagem Supereconômica
+   Link: https://www.paodeacucar.com/produto/655415/iogurte-parcialmente-desnatado-vitamina-de-frutas-danone-garrafa-1,25kg-embalagem-supereconomica
+   ID do produto: 655415 | SKU: 1281650 | EAN: N/D
+   Marca: DANONE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 17,84
+   Preço anterior: R$ 20,99
+   Preço de catálogo: R$ 20,99
+   Desconto: 15.0% | Economia: R$ 3,15
+
+58. Iogurte YoPRO 17g de Proteínas Natural 160g
+   Link: https://www.paodeacucar.com/produto/448555/iogurte-yopro-17g-de-proteinas-natural-160g
+   ID do produto: 448555 | SKU: 1196826 | EAN: N/D
+   Marca: YOPRO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 7,66
+   Preço anterior: R$ 11,49
+   Preço de catálogo: R$ 11,49
+   Desconto: 33.3% | Economia: R$ 3,83
+
+59. Iogurte YoPRO Pouch 15g de Proteínas Açaí com Banana 160g
+   Link: https://www.paodeacucar.com/produto/709896/iogurte-yopro-pouch-15g-de-proteinas-acai-com-banana-160g
+   ID do produto: 709896 | SKU: 1311497 | EAN: N/D
+   Marca: YOPRO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 7,66
+   Preço anterior: R$ 11,49
+   Preço de catálogo: R$ 11,49
+   Desconto: 33.3% | Economia: R$ 3,83
+
+60. Lava-Roupas Líquido Qualitá Tripla Ação Galão 3l
+   Link: https://www.paodeacucar.com/produto/419635/lava-roupas-liquido-qualita-tripla-acao-galao-3l
+   ID do produto: 419635 | SKU: 1159167 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 21,74
+   Preço anterior: R$ 28,99
+   Preço de catálogo: R$ 28,99
+   Desconto: 25.0% | Economia: R$ 7,25
+
+61. Leite Fermentado Parcialmente Desnatado Ameixa Activia Garrafa 800g
+   Link: https://www.paodeacucar.com/produto/1571635/leite-fermentado-parcialmente-desnatado-ameixa-activia-garrafa-800g
+   ID do produto: 1571635 | SKU: 1369165 | EAN: N/D
+   Marca: ACTIVIA | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 16,14
+   Preço anterior: R$ 18,99
+   Preço de catálogo: R$ 18,99
+   Desconto: 15.0% | Economia: R$ 2,85
+
+62. Linguiça Toscana com Queijo Coalho Perdigão na Brasa 600g
+   Link: https://www.paodeacucar.com/produto/382109/linguica-toscana-com-queijo-coalho-perdigao-na-brasa-600g
+   ID do produto: 382109 | SKU: 1126134 | EAN: N/D
+   Marca: PERDIGÃO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 25,68
+   Preço anterior: R$ 36,69
+   Preço de catálogo: R$ 36,69
+   Desconto: 30.0% | Economia: R$ 11,01
+
+63. Odorizador de Ambiente Frutas e Flores Vibrantes Glade Automatic Frasco 269ml Spray Refil
+   Link: https://www.paodeacucar.com/produto/464937/odorizador-de-ambiente-frutas-e-flores-vibrantes-glade-automatic-frasco-269ml-spray-refil
+   ID do produto: 464937 | SKU: 1226748 | EAN: N/D
+   Marca: GLADE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 20,50
+   Preço anterior: R$ 40,99
+   Preço de catálogo: R$ 40,99
+   Desconto: 50.0% | Economia: R$ 20,49
+
+64. Papel Higiênico Folha Tripla com Perfume Neve Care Toque das Ondas 20m Pacote 12 Unidades
+   Link: https://www.paodeacucar.com/produto/1637743/papel-higienico-folha-tripla-com-perfume-neve-care-toque-das-ondas-20m-pacote-12-unidades
+   ID do produto: 1637743 | SKU: 1409706 | EAN: N/D
+   Marca: NEVE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 24,99
+   Preço de catálogo: R$ 24,99
+   Desconto: N/D | Economia: N/D
+
+65. Papel Higiênico Folha Tripla Supra Com12 Rolos 20m
+   Link: https://www.paodeacucar.com/produto/1645681/papel-higienico-folha-tripla-supra-com12-rolos-20m
+   ID do produto: 1645681 | SKU: 1417638 | EAN: N/D
+   Marca: Supra | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 22,99
+   Preço anterior: R$ 22,99
+   Preço de catálogo: R$ 22,99
+   Desconto: N/D | Economia: N/D
+
+66. Papel Higiênico NEVE Supreme Folha Tripla 12 Rolos
+   Link: https://www.paodeacucar.com/produto/568596/papel-higienico-neve-supreme-folha-tripla-12-rolos
+   ID do produto: 568596 | SKU: 1266606 | EAN: N/D
+   Marca: NEVE | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 24,99
+   Preço anterior: R$ 24,99
+   Preço de catálogo: R$ 24,99
+   Desconto: N/D | Economia: N/D
+
+67. Papel Higiênico Personal Vip Folha Dupla Neutro 30m 24 Rolos - L24P22
+   Link: https://www.paodeacucar.com/produto/153708/papel-higienico-personal-vip-folha-dupla-neutro-30m-24-rolos---l24p22
+   ID do produto: 153708 | SKU: 4221074 | EAN: N/D
+   Marca: PERSONAL | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 49,99
+   Preço anterior: R$ 49,99
+   Preço de catálogo: R$ 49,99
+   Desconto: N/D | Economia: N/D
+
+68. Picanha Bovina À Vácuo Resfriada 1,7Kg
+   Link: https://www.paodeacucar.com/produto/80812/picanha-bovina-a-vacuo-resfriada-1,7kg
+   ID do produto: 80812 | SKU: 0029629 | EAN: N/D
+   Marca: Genérico | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 164,73
+   Preço anterior: R$ 164,73
+   Preço de catálogo: R$ 164,73
+   Desconto: N/D | Economia: N/D
+
+69. Pipoca para Micro-Ondas Manteiga Yoki Pacote 50g
+   Link: https://www.paodeacucar.com/produto/394210/pipoca-para-micro-ondas-manteiga-yoki-pacote-50g
+   ID do produto: 394210 | SKU: 1134218 | EAN: N/D
+   Marca: YOKI | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 1,99
+   Preço anterior: R$ 2,99
+   Preço de catálogo: R$ 2,99
+   Desconto: 33.4% | Economia: R$ 1,00
+
+70. Pizza Calabresa Qualitá Caixa 460g
+   Link: https://www.paodeacucar.com/produto/1583416/pizza-calabresa-qualita-caixa-460g
+   ID do produto: 1583416 | SKU: 1369804 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 17,77
+   Preço anterior: R$ 20,90
+   Preço de catálogo: R$ 20,90
+   Desconto: 15.0% | Economia: R$ 3,13
+
+71. Pão de Alho Picante com Queijo Baguete QUALITÁ 300g
+   Link: https://www.paodeacucar.com/produto/429235/pao-de-alho-picante-com-queijo-baguete-qualita-300g
+   ID do produto: 429235 | SKU: 1176992 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 10,79
+   Preço anterior: R$ 11,99
+   Preço de catálogo: R$ 11,99
+   Desconto: 10.0% | Economia: R$ 1,20
+
+72. Pão de Forma Tradicional Qualitá Pacote 400g
+   Link: https://www.paodeacucar.com/produto/1627191/pao-de-forma-tradicional-qualita-pacote-400g
+   ID do produto: 1627191 | SKU: 1392150 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 6,29
+   Preço anterior: R$ 6,29
+   Preço de catálogo: R$ 6,29
+   Desconto: N/D | Economia: N/D
+
+73. Pão de Queijo Tradicional Qualitá Pacote 1kg
+   Link: https://www.paodeacucar.com/produto/284448/pao-de-queijo-tradicional-qualita-pacote-1kg
+   ID do produto: 284448 | SKU: 1027650 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 30,52
+   Preço anterior: R$ 35,90
+   Preço de catálogo: R$ 35,90
+   Desconto: 15.0% | Economia: R$ 5,38
+
+74. Queijo Coalho em Espeto Tirolez 280g 7 Unidades
+   Link: https://www.paodeacucar.com/produto/1642325/queijo-coalho-em-espeto-tirolez-280g-7-unidades
+   ID do produto: 1642325 | SKU: 1415765 | EAN: N/D
+   Marca: N/D | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 29,90
+   Preço anterior: R$ 29,90
+   Preço de catálogo: R$ 29,90
+   Desconto: N/D | Economia: N/D
+
+75. Queijo Gouda Tirolez Pedaço 200g
+   Link: https://www.paodeacucar.com/produto/87555/queijo-gouda-tirolez-pedaco-200g
+   ID do produto: 87555 | SKU: 0016162 | EAN: N/D
+   Marca: TIROLEZ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 29,98
+   Preço anterior: R$ 29,98
+   Preço de catálogo: R$ 29,98
+   Desconto: N/D | Economia: N/D
+
+76. Queijo Gran Formagio 200g
+   Link: https://www.paodeacucar.com/produto/820436/queijo-gran-formagio-200g
+   ID do produto: 820436 | SKU: 0753630 | EAN: N/D
+   Marca: Rar | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 43,98
+   Preço anterior: R$ 43,98
+   Preço de catálogo: R$ 43,98
+   Desconto: N/D | Economia: N/D
+
+77. Queijo Grana Lascas Gran Formaggio 150g
+   Link: https://www.paodeacucar.com/produto/446829/queijo-grana-lascas-gran-formaggio-150g
+   ID do produto: 446829 | SKU: 1201851 | EAN: N/D
+   Marca: GRAN FORMAGGIO | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 36,49
+   Preço anterior: R$ 36,49
+   Preço de catálogo: R$ 36,49
+   Desconto: N/D | Economia: N/D
+
+78. Queijo Parmesão Fracionado Maturado 12 Meses Tirolez 200g
+   Link: https://www.paodeacucar.com/produto/1638181/queijo-parmesao-fracionado-maturado-12-meses-tirolez-200g
+   ID do produto: 1638181 | SKU: 1409708 | EAN: N/D
+   Marca: TIROLEZ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 46,90
+   Preço anterior: R$ 46,90
+   Preço de catálogo: R$ 46,90
+   Desconto: N/D | Economia: N/D
+
+79. Queijo Tipo Grana Rar Lascas 150G
+   Link: https://www.paodeacucar.com/produto/795436/queijo-tipo-grana-rar-lascas-150g
+   ID do produto: 795436 | SKU: 1324166 | EAN: N/D
+   Marca: Rar | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 49,90
+   Preço anterior: R$ 49,90
+   Preço de catálogo: R$ 49,90
+   Desconto: N/D | Economia: N/D
+
+80. Ravióli de Espinafre Recheio Mussarela de Búfala e Ricota Qualitá by Spoleto Minha Cozinha Italiana em Casa 400g
+   Link: https://www.paodeacucar.com/produto/1638498/ravioli-de-espinafre-recheio-mussarela-de-bufala-e-ricota-qualita-by-spoleto-minha-cozinha-italiana-em-casa-400g
+   ID do produto: 1638498 | SKU: 1405687 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 19,92
+   Preço anterior: R$ 24,90
+   Preço de catálogo: R$ 24,90
+   Desconto: 20.0% | Economia: R$ 4,98
+
+81. Refrigerante Cola Zero Açúcar Pepsi Black Garrafa 2l
+   Link: https://www.paodeacucar.com/produto/328613/refrigerante-cola-zero-acucar-pepsi-black-garrafa-2l
+   ID do produto: 328613 | SKU: 1091073 | EAN: N/D
+   Marca: PEPSI | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 6,99
+   Preço de catálogo: R$ 6,99
+   Desconto: N/D | Economia: N/D
+
+82. Refrigerante PEPSI Twist Garrafa 2L
+   Link: https://www.paodeacucar.com/produto/136426/refrigerante-pepsi-twist-garrafa-2l
+   ID do produto: 136426 | SKU: 5530328 | EAN: N/D
+   Marca: PEPSI | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 6,99
+   Preço anterior: R$ 6,99
+   Preço de catálogo: R$ 6,99
+   Desconto: N/D | Economia: N/D
+
+83. Refrigerante Zero Açúcar Guaraná Antarctica Garrafa 1,5l
+   Link: https://www.paodeacucar.com/produto/125781/refrigerante-zero-acucar-guarana-antarctica-garrafa-1,5l
+   ID do produto: 125781 | SKU: 3299210 | EAN: N/D
+   Marca: Guaraná Antarctica | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 6,89
+   Preço anterior: R$ 6,89
+   Preço de catálogo: R$ 6,89
+   Desconto: N/D | Economia: N/D
+
+84. Requeijão Cremoso Light Qualitá Pote 400g
+   Link: https://www.paodeacucar.com/produto/1618962/requeijao-cremoso-light-qualita-pote-400g
+   ID do produto: 1618962 | SKU: 1386607 | EAN: N/D
+   Marca: QUALITÁ | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 14,37
+   Preço anterior: R$ 16,90
+   Preço de catálogo: R$ 16,90
+   Desconto: 15.0% | Economia: R$ 2,53
+
+85. Sabonete Bebê Barra Johnsons Baby Caixa 80g
+   Link: https://www.paodeacucar.com/produto/38628/sabonete-bebe-barra-johnsons-baby-caixa-80g
+   ID do produto: 38628 | SKU: 0793827 | EAN: N/D
+   Marca: JOHNSONS | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta (tag: oferta)
+   Preço promocional: R$ 7,49
+   Preço anterior: R$ 7,49
+   Preço de catálogo: R$ 7,49
+   Desconto: N/D | Economia: N/D
+
+86. Salgadinho de Milho Queijo Nacho Doritos Pacote 120g
+   Link: https://www.paodeacucar.com/produto/1623329/salgadinho-de-milho-queijo-nacho-doritos-pacote-120g
+   ID do produto: 1623329 | SKU: 1388552 | EAN: N/D
+   Marca: DORITOS | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 12,66
+   Preço anterior: R$ 18,99
+   Preço de catálogo: R$ 18,99
+   Desconto: 33.3% | Economia: R$ 6,33
+
+87. Salgadinho de Milho Queijo Nacho Doritos Pacote 75g
+   Link: https://www.paodeacucar.com/produto/1623328/salgadinho-de-milho-queijo-nacho-doritos-pacote-75g
+   ID do produto: 1623328 | SKU: 1388553 | EAN: N/D
+   Marca: DORITOS | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Leve 3 pague 2 (tag: amarelo)
+   Preço promocional: R$ 5,53
+   Preço anterior: R$ 8,29
+   Preço de catálogo: R$ 8,29
+   Desconto: 33.3% | Economia: R$ 2,76
+
+88. Suco Integral Maçã The Natural One Refrigerado Garrafa 900ml
+   Link: https://www.paodeacucar.com/produto/292195/suco-integral-maca-the-natural-one-refrigerado-garrafa-900ml
+   ID do produto: 292195 | SKU: 1038410 | EAN: N/D
+   Marca: The Natural One | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 15,74
+   Preço anterior: R$ 20,99
+   Preço de catálogo: R$ 20,99
+   Desconto: 25.0% | Economia: R$ 5,25
+
+89. Suco Misto Pink Lemonade The Natural One Refrigerado Garrafa 900ml
+   Link: https://www.paodeacucar.com/produto/305494/suco-misto-pink-lemonade-the-natural-one-refrigerado-garrafa-900ml
+   ID do produto: 305494 | SKU: 1050329 | EAN: N/D
+   Marca: The Natural One | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 14,99
+   Preço anterior: R$ 19,99
+   Preço de catálogo: R$ 19,99
+   Desconto: 25.0% | Economia: R$ 5,00
+
+90. Suco Misto Uva, Pera E Maçã The Natural One Refrigerado Garrafa 900ml
+   Link: https://www.paodeacucar.com/produto/308261/suco-misto-uva,-pera-e-maca-the-natural-one-refrigerado-garrafa-900ml
+   ID do produto: 308261 | SKU: 1054713 | EAN: N/D
+   Marca: The Natural One | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 16,49
+   Preço anterior: R$ 21,99
+   Preço de catálogo: R$ 21,99
+   Desconto: 25.0% | Economia: R$ 5,50
+
+91. Vinho Branco Frances Louis Cabajou Bourgogne Chardonnay 750ml
+   Link: https://www.paodeacucar.com/produto/1628000/vinho-branco-frances-louis-cabajou-bourgogne-chardonnay-750ml
+   ID do produto: 1628000 | SKU: 1398161 | EAN: N/D
+   Marca: Louis Cabajou | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 149,90
+   Preço anterior: R$ 149,90
+   Preço de catálogo: R$ 149,90
+   Desconto: N/D | Economia: N/D
+
+92. Vinho Tinto Argentino Santa Julia Magna Cabernet Sauvignon 750ml
+   Link: https://www.paodeacucar.com/produto/462509/vinho-tinto-argentino-santa-julia-magna-cabernet-sauvignon-750ml
+   ID do produto: 462509 | SKU: 1230331 | EAN: N/D
+   Marca: SANTA JULIA | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 139,90
+   Preço anterior: R$ 139,90
+   Preço de catálogo: R$ 139,90
+   Desconto: N/D | Economia: N/D
+
+93. Vodka Destilada Smirnoff Garrafa 998ml
+   Link: https://www.paodeacucar.com/produto/134026/vodka-destilada-smirnoff-garrafa-998ml
+   ID do produto: 134026 | SKU: 1765083 | EAN: N/D
+   Marca: SMIRNOFF | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 35,89
+   Preço anterior: R$ 35,89
+   Preço de catálogo: R$ 35,89
+   Desconto: N/D | Economia: N/D
+
+94. Whisky Escocês Blended 12 Anos Grand Old Parr Garrafa 1l
+   Link: https://www.paodeacucar.com/produto/65643/whisky-escoces-blended-12-anos-grand-old-parr-garrafa-1l
+   ID do produto: 65643 | SKU: 0294409 | EAN: N/D
+   Marca: GRAND OLD PARR | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 129,99
+   Preço anterior: R$ 129,99
+   Preço de catálogo: R$ 129,99
+   Desconto: N/D | Economia: N/D
+
+95. Whisky Escocês Blended Black Label Johnnie Walker Garrafa 1l
+   Link: https://www.paodeacucar.com/produto/161753/whisky-escoces-blended-black-label-johnnie-walker-garrafa-1l
+   ID do produto: 161753 | SKU: 0786041 | EAN: N/D
+   Marca: JOHNNIE WALKER | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 149,99
+   Preço anterior: R$ 149,99
+   Preço de catálogo: R$ 149,99
+   Desconto: N/D | Economia: N/D
+
+96. Whisky Escocês Blended Buchanans Deluxe Garrafa 1l
+   Link: https://www.paodeacucar.com/produto/55496/whisky-escoces-blended-buchanans-deluxe-garrafa-1l
+   ID do produto: 55496 | SKU: 0337694 | EAN: N/D
+   Marca: Buchanans | Unidade: UN | Disponível: Sim
+   Tipo de oferta: Oferta Amarelo (tag: amarelo)
+   Preço promocional: R$ 159,99
+   Preço anterior: R$ 159,99
+   Preço de catálogo: R$ 159,99
+   Desconto: N/D | Economia: N/D
